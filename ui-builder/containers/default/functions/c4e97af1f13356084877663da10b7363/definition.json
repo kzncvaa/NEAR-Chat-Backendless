@@ -1,0 +1,15 @@
+{
+  "name": "getCurrentUser",
+  "id": "c4e97af1f13356084877663da10b7363",
+  "filePath": "/custom/functions/c4e97af1f13356084877663da10b7363/code.js",
+  "inputs": [
+    {
+      "label": "appData",
+      "name": "appData"
+    }
+  ],
+  "hasReturn": true,
+  "dependencies": [],
+  "tooltip": null,
+  "helpUrl": null
+}

@@ -1,0 +1,26 @@
+{
+  "style": {
+    "background-color": "#0f1129"
+  },
+  "components": {
+    "page": {
+      "type": "page",
+      "moduleType": "system",
+      "moduleId": "page",
+      "handlers": {
+        "onEnter": {
+          "dependencies": [
+            "./functions/71c90b7681f2c8b9eb72624de9567aa7/code.js",
+            "./functions/c4e97af1f13356084877663da10b7363/code.js"
+          ]
+        }
+      }
+    }
+  },
+  "usedComponentTypes": [
+    "block",
+    "spinner"
+  ],
+  "dataBinding": {},
+  "attrs": {}
+}

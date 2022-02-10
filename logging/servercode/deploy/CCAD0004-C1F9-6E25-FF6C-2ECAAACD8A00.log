@@ -1,0 +1,11 @@
+{"requestId":"CCAD0004-C1F9-6E25-FF6C-2ECAAACD8A00","message":"Check if another code deploy in process","date":1643394455852,"level":"INFO"}
+{"requestId":"CCAD0004-C1F9-6E25-FF6C-2ECAAACD8A00","message":"Check if another deploy process in progress","date":1643394455857,"level":"INFO"}
+{"requestId":"CCAD0004-C1F9-6E25-FF6C-2ECAAACD8A00","message":"Got lock for deploy process","date":1643394455857,"level":"INFO"}
+{"requestId":"CCAD0004-C1F9-6E25-FF6C-2ECAAACD8A00","message":"Inspecting code on coderunner...","date":1643394455858,"level":"INFO"}
+{"requestId":"CCAD0004-C1F9-6E25-FF6C-2ECAAACD8A00","message":"Code inspected in 110 ms.","date":1643394455968,"level":"INFO"}
+{"requestId":"CCAD0004-C1F9-6E25-FF6C-2ECAAACD8A00","message":"Parsing model from coderunner, creating event, timers and services in DB","date":1643394455968,"level":"INFO"}
+{"requestId":"CCAD0004-C1F9-6E25-FF6C-2ECAAACD8A00","message":"Parsed model in 5 ms","date":1643394455973,"level":"INFO"}
+{"requestId":"CCAD0004-C1F9-6E25-FF6C-2ECAAACD8A00","message":"Lock released","date":1643394455974,"level":"INFO"}
+{"requestId":"CCAD0004-C1F9-6E25-FF6C-2ECAAACD8A00","message":"Removed cache","date":1643394455974,"level":"INFO"}
+{"requestId":"CCAD0004-C1F9-6E25-FF6C-2ECAAACD8A00","message":"Generating code","date":1643394455975,"level":"INFO"}
+{"requestId":"CCAD0004-C1F9-6E25-FF6C-2ECAAACD8A00","message":"Deploy finished.","date":1643394455979,"level":"INFO"}

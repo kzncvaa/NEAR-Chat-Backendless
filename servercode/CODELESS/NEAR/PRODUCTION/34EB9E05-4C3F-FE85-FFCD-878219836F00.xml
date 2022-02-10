@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<namespaces>
+  <namespace name="services" fullname="services">
+    <service name="NEAR" description="NEAR" fullname="services.NEAR" namespace="services">
+      <method name="Login" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" method="POST" path="/login">
+        <arg name="account_id" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="callback_url" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="network" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+      </method>
+      <method name="getInfoByTransaction" type="getInfoByTransaction_ResultObject" nativetype="services.getInfoByTransaction_ResultObject" fulltype="services.getInfoByTransaction_ResultObject" javatype="services.getInfoByTransaction_ResultObject" method="POST" path="/getInfo">
+        <arg name="transactionHashes" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="username" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+      </method>
+      <method name="getPrivateKey" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" method="POST" path="/parse_seed_phrase">
+        <arg name="seed_phrase" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+      </method>
+      <method name="Balance" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" method="GET" path="/balance">
+        <arg name="account_id" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+      </method>
+      <method name="view" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" method="POST" path="/view">
+      </method>
+      <method name="sendMessage" type="void" nativetype="void" fulltype="void" javatype="void" method="POST" path="/call">
+        <arg name="account_id" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="private_key" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="text" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+      </method>
+      <method name="transaction" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" method="POST" path="/send">
+        <arg name="sender_id" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="receiver_id" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="deposit" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="callback_url" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="network" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="message" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="false"/>
+      </method>
+      <method name="deployContract" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" method="POST" path="/deploy">
+        <arg name="account_id" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="private_key" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+      </method>
+      <method name="mintNFT" type="void" nativetype="void" fulltype="void" javatype="void" method="POST" path="/mint_nft">
+        <arg name="token_id" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="metadata" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="account_id" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="private_key" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+      </method>
+      <method name="transferNFT" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" method="POST" path="/transfer">
+        <arg name="token_id" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="receiver_id" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="enforce_owner_id" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="memo" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="enforce_private_key" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+        <arg name="contract" type="String" nativetype="String" fulltype="String" javatype="java.lang.String" required="true"/>
+      </method>
+    </service>
+    <datatype name="getInfoByTransaction_ResultObject" description="getInfoByTransaction_ResultObject" fullname="services.getInfoByTransaction_ResultObject" typeNamespace="services">
+      <field name="transaction" type="Object" nativetype="Object" fulltype="Object" javatype="java.lang.Object"/>
+    </datatype>
+  </namespace>
+  <runtime generationMode="FULL">
+  </runtime>
+</namespaces>

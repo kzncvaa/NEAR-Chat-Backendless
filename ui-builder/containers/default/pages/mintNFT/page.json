@@ -1,0 +1,126 @@
+{
+  "style": {
+    "background-color": "#0f1129",
+    "padding": "10px 0 10px 0"
+  },
+  "components": {
+    "67fe6e96b05c9bde0a5d63a9ac7825c1": {
+      "id": "NFT List",
+      "type": "block",
+      "moduleType": "system",
+      "moduleId": "block",
+      "handlers": {}
+    },
+    "a0b8e9b50d6841c82998d688361f5088": {
+      "id": "",
+      "type": "button",
+      "moduleType": "system",
+      "moduleId": "button",
+      "handlers": {
+        "onClick": {
+          "dependencies": []
+        }
+      }
+    },
+    "e5e8fc597258eb67b82896a88ae80745": {
+      "id": "Deploy",
+      "type": "form",
+      "moduleType": "system",
+      "moduleId": "form",
+      "handlers": {
+        "onSubmit": {
+          "dependencies": []
+        }
+      }
+    },
+    "d0292826e5d48b277e8221d63f75b556": {
+      "id": "Username Label",
+      "type": "text",
+      "moduleType": "system",
+      "moduleId": "text",
+      "handlers": {
+        "onContentAssignment": {
+          "dependencies": []
+        }
+      }
+    },
+    "c49666a82d1930d709188d4fe9b96a41": {
+      "id": "",
+      "type": "text",
+      "moduleType": "system",
+      "moduleId": "text",
+      "handlers": {
+        "onContentAssignment": {
+          "dependencies": []
+        }
+      }
+    },
+    "page": {
+      "type": "page",
+      "moduleType": "system",
+      "moduleId": "page",
+      "handlers": {
+        "onEnter": {
+          "dependencies": []
+        }
+      }
+    },
+    "7aa891aab058f1583558960f78428c7c": {
+      "id": "NFT item",
+      "type": "block",
+      "moduleType": "system",
+      "moduleId": "block",
+      "handlers": {
+        "onClick": {
+          "dependencies": []
+        }
+      }
+    },
+    "a293fb38cd08896d4b38be3432c8a8d6": {
+      "id": "Transfer",
+      "type": "form",
+      "moduleType": "system",
+      "moduleId": "form",
+      "handlers": {
+        "onSubmit": {
+          "dependencies": []
+        }
+      }
+    },
+    "73712c1793d263f9c8dcdfd451233039": {
+      "id": "Logout Button",
+      "type": "button",
+      "moduleType": "system",
+      "moduleId": "button",
+      "handlers": {
+        "onClick": {
+          "dependencies": []
+        }
+      }
+    },
+    "829850d80baf58b72d0c93181aca0a36": {
+      "id": "",
+      "type": "button",
+      "moduleType": "system",
+      "moduleId": "button",
+      "handlers": {
+        "onClick": {
+          "dependencies": []
+        }
+      }
+    }
+  },
+  "usedComponentTypes": [
+    "block",
+    "image",
+    "text",
+    "button",
+    "layout-container",
+    "layout-row",
+    "layout-cell",
+    "form",
+    "input"
+  ],
+  "dataBinding": {},
+  "attrs": {}
+}

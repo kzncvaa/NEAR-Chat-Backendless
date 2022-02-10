@@ -1,0 +1,7 @@
+{
+  "libraryPath": "../../library",
+  "hasPagesJSON": true,
+  "mainPage": "chat",
+  "isFunctionsMigrated": true,
+  "isFunctionsRenamedToUid": true
+}

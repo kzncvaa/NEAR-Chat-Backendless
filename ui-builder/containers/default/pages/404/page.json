@@ -1,0 +1,29 @@
+{
+  "label": "Not Found Page",
+  "style": {
+    "padding": "20px 20px 20px 20px",
+    "background-color": "#dfdfdf"
+  },
+  "usedComponentTypes": [
+    "block",
+    "text",
+    "button"
+  ],
+  "components": {
+    "page": {
+      "type": "page",
+      "handlers": {}
+    },
+    "902c9641de4ec9e73427e7192a118d14": {
+      "id": "Button - 1",
+      "type": "button",
+      "handlers": {
+        "onClick": {
+          "dependencies": []
+        }
+      }
+    }
+  },
+  "dataBinding": {},
+  "attrs": {}
+}

@@ -1,0 +1,11 @@
+{"requestId":"AB4DAAE6-B361-09E6-FFB3-700599E30B00","message":"Check if another code deploy in process","date":1643462415523,"level":"INFO"}
+{"requestId":"AB4DAAE6-B361-09E6-FFB3-700599E30B00","message":"Check if another deploy process in progress","date":1643462415634,"level":"INFO"}
+{"requestId":"AB4DAAE6-B361-09E6-FFB3-700599E30B00","message":"Got lock for deploy process","date":1643462415635,"level":"INFO"}
+{"requestId":"AB4DAAE6-B361-09E6-FFB3-700599E30B00","message":"Inspecting code on coderunner...","date":1643462415635,"level":"INFO"}
+{"requestId":"AB4DAAE6-B361-09E6-FFB3-700599E30B00","message":"Code inspected in 123 ms.","date":1643462415758,"level":"INFO"}
+{"requestId":"AB4DAAE6-B361-09E6-FFB3-700599E30B00","message":"Parsing model from coderunner, creating event, timers and services in DB","date":1643462415758,"level":"INFO"}
+{"requestId":"AB4DAAE6-B361-09E6-FFB3-700599E30B00","message":"Parsed model in 3 ms","date":1643462415761,"level":"INFO"}
+{"requestId":"AB4DAAE6-B361-09E6-FFB3-700599E30B00","message":"Lock released","date":1643462415761,"level":"INFO"}
+{"requestId":"AB4DAAE6-B361-09E6-FFB3-700599E30B00","message":"Removed cache","date":1643462415762,"level":"INFO"}
+{"requestId":"AB4DAAE6-B361-09E6-FFB3-700599E30B00","message":"Generating code","date":1643462415762,"level":"INFO"}
+{"requestId":"AB4DAAE6-B361-09E6-FFB3-700599E30B00","message":"Deploy finished.","date":1643462415768,"level":"INFO"}

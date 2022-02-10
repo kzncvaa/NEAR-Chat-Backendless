@@ -1,0 +1,71 @@
+{
+  "style": {
+    "background-color": "#0f1129"
+  },
+  "components": {
+    "359e942fb9f2d5df44939e52ea244ac3": {
+      "id": "Login Button",
+      "type": "button",
+      "moduleType": "system",
+      "moduleId": "button",
+      "handlers": {}
+    },
+    "97d96f06795c5901703d0bf6f8eca854": {
+      "id": "",
+      "type": "text",
+      "moduleType": "system",
+      "moduleId": "text",
+      "handlers": {
+        "onContentAssignment": {
+          "dependencies": []
+        }
+      }
+    },
+    "e13c78778b412de8d2c2d4ad9f421133": {
+      "id": "Transaction Form",
+      "type": "form",
+      "moduleType": "system",
+      "moduleId": "form",
+      "handlers": {
+        "onSubmit": {
+          "dependencies": []
+        }
+      }
+    },
+    "page": {
+      "type": "page",
+      "moduleType": "system",
+      "moduleId": "page",
+      "handlers": {
+        "onEnter": {
+          "dependencies": []
+        }
+      }
+    },
+    "fd687d8d3b73caaefe18e14867b8cda8": {
+      "id": "",
+      "type": "button",
+      "moduleType": "system",
+      "moduleId": "button",
+      "handlers": {
+        "onClick": {
+          "dependencies": []
+        }
+      }
+    }
+  },
+  "usedComponentTypes": [
+    "block",
+    "layout-container",
+    "layout-row",
+    "layout-cell",
+    "image",
+    "form",
+    "text",
+    "input",
+    "switch",
+    "button"
+  ],
+  "dataBinding": {},
+  "attrs": {}
+}

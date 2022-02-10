@@ -1,0 +1,1965 @@
+[INFO] 2021-12-02 03:05:53,131 |pool-7-thread-11| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2021-12-02 03:05:53,134 |pool-7-thread-11| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CC23B068-EE8B-5407-FF7B-E6BAF410F500'...
+
+[INFO] 2021-12-02 03:05:53,134 |pool-7-thread-11| 
+Creating schema `CC23B068-EE8B-5407-FF7B-E6BAF410F500`...
+
+[INFO] 2021-12-02 03:05:57,269 |pool-7-thread-11| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `CC23B068-EE8B-5407-FF7B-E6BAF410F500`
+
+[INFO] 2021-12-02 03:05:57,270 |pool-7-thread-11| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CC23B068-EE8B-5407-FF7B-E6BAF410F500'...
+
+[INFO] 2021-12-02 03:05:57,270 |pool-7-thread-11| 
+Creating destination directories: /opt/backendless/repo/cc23b068-ee8b-5407-ff7b-e6baf410f500/files
+
+[INFO] 2021-12-02 03:05:57,271 |pool-7-thread-11| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/cc23b068-ee8b-5407-ff7b-e6baf410f500/files...
+
+[INFO] 2021-12-02 03:05:57,495 |pool-7-thread-11| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CC23B068-EE8B-5407-FF7B-E6BAF410F500'
+
+[INFO] 2021-12-02 03:05:57,495 |pool-7-thread-11| 
+Initialize codegen for destination app 'CC23B068-EE8B-5407-FF7B-E6BAF410F500'
+
+[INFO] 2021-12-02 03:05:57,508 |pool-7-thread-11| 
+Finished initialize codegen for destination app 'CC23B068-EE8B-5407-FF7B-E6BAF410F500'
+
+[INFO] 2021-12-02 03:05:57,508 |pool-7-thread-11| 
+Cloning cache started
+
+[INFO] 2021-12-02 03:05:57,509 |pool-7-thread-11| 
+Cloning cache finished
+
+[INFO] 2021-12-02 03:05:57,509 |pool-7-thread-11| 
+Cloning counters started
+
+[INFO] 2021-12-02 03:05:57,509 |pool-7-thread-11| 
+Cloning counters finished
+
+[INFO] 2021-12-02 03:05:57,509 |pool-7-thread-11| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CC23B068-EE8B-5407-FF7B-E6BAF410F500'...
+
+[INFO] 2021-12-02 03:05:57,511 |pool-7-thread-11| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CC23B068-EE8B-5407-FF7B-E6BAF410F500'
+
+[INFO] 2021-12-02 03:05:57,511 |pool-7-thread-11| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CC23B068-EE8B-5407-FF7B-E6BAF410F500'...
+
+[INFO] 2021-12-02 03:05:57,512 |pool-7-thread-11| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-02 03:05:57,513 |pool-7-thread-11| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-02 03:05:57,514 |pool-7-thread-11| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CC23B068-EE8B-5407-FF7B-E6BAF410F500'
+
+[DEBUG] 2021-12-02 03:05:57,518 |pool-7-thread-11| 
+Original app character set: utf8mb4
+
+[DEBUG] 2021-12-02 03:05:57,518 |pool-7-thread-11| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-02 03:05:57,521 |pool-7-thread-11| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2021-12-02 03:05:57,521 |pool-7-thread-11| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-02 03:05:57,521 |pool-7-thread-11| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2021-12-02 03:05:57,521 |pool-7-thread-11| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2021-12-02 03:05:57,763 |pool-7-thread-11| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CC23B068-EE8B-5407-FF7B-E6BAF410F500'
+
+[INFO] 2021-12-02 09:17:02,865 |pool-7-thread-11| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2021-12-02 09:17:02,868 |pool-7-thread-11| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '03EF4F5A-4B13-FCD1-FF71-0691634A8600'...
+
+[INFO] 2021-12-02 09:17:02,868 |pool-7-thread-11| 
+Creating schema `03EF4F5A-4B13-FCD1-FF71-0691634A8600`...
+
+[INFO] 2021-12-02 09:17:07,014 |pool-7-thread-11| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `03EF4F5A-4B13-FCD1-FF71-0691634A8600`
+
+[INFO] 2021-12-02 09:17:07,015 |pool-7-thread-11| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '03EF4F5A-4B13-FCD1-FF71-0691634A8600'...
+
+[INFO] 2021-12-02 09:17:07,015 |pool-7-thread-11| 
+Creating destination directories: /opt/backendless/repo/03ef4f5a-4b13-fcd1-ff71-0691634a8600/files
+
+[INFO] 2021-12-02 09:17:07,016 |pool-7-thread-11| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/03ef4f5a-4b13-fcd1-ff71-0691634a8600/files...
+
+[INFO] 2021-12-02 09:17:07,195 |pool-7-thread-11| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '03EF4F5A-4B13-FCD1-FF71-0691634A8600'
+
+[INFO] 2021-12-02 09:17:07,195 |pool-7-thread-11| 
+Initialize codegen for destination app '03EF4F5A-4B13-FCD1-FF71-0691634A8600'
+
+[INFO] 2021-12-02 09:17:07,206 |pool-7-thread-11| 
+Finished initialize codegen for destination app '03EF4F5A-4B13-FCD1-FF71-0691634A8600'
+
+[INFO] 2021-12-02 09:17:07,206 |pool-7-thread-11| 
+Cloning cache started
+
+[INFO] 2021-12-02 09:17:07,207 |pool-7-thread-11| 
+Cloning cache finished
+
+[INFO] 2021-12-02 09:17:07,207 |pool-7-thread-11| 
+Cloning counters started
+
+[INFO] 2021-12-02 09:17:07,208 |pool-7-thread-11| 
+Cloning counters finished
+
+[INFO] 2021-12-02 09:17:07,208 |pool-7-thread-11| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '03EF4F5A-4B13-FCD1-FF71-0691634A8600'...
+
+[INFO] 2021-12-02 09:17:07,209 |pool-7-thread-11| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '03EF4F5A-4B13-FCD1-FF71-0691634A8600'
+
+[INFO] 2021-12-02 09:17:07,209 |pool-7-thread-11| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '03EF4F5A-4B13-FCD1-FF71-0691634A8600'...
+
+[INFO] 2021-12-02 09:17:07,210 |pool-7-thread-11| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-02 09:17:07,211 |pool-7-thread-11| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-02 09:17:07,212 |pool-7-thread-11| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '03EF4F5A-4B13-FCD1-FF71-0691634A8600'
+
+[DEBUG] 2021-12-02 09:17:07,215 |pool-7-thread-11| 
+Original app character set: utf8mb4
+
+[DEBUG] 2021-12-02 09:17:07,215 |pool-7-thread-11| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-02 09:17:07,217 |pool-7-thread-11| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2021-12-02 09:17:07,217 |pool-7-thread-11| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-02 09:17:07,217 |pool-7-thread-11| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2021-12-02 09:17:07,217 |pool-7-thread-11| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2021-12-02 09:17:07,461 |pool-7-thread-11| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '03EF4F5A-4B13-FCD1-FF71-0691634A8600'
+
+[INFO] 2021-12-08 19:56:25,550 |pool-7-thread-11| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2021-12-08 19:56:25,554 |pool-7-thread-11| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D3B372FA-6C15-E632-FF6C-99381CDEC300'...
+
+[INFO] 2021-12-08 19:56:25,554 |pool-7-thread-11| 
+Creating schema `D3B372FA-6C15-E632-FF6C-99381CDEC300`...
+
+[INFO] 2021-12-08 19:56:29,919 |pool-7-thread-11| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `D3B372FA-6C15-E632-FF6C-99381CDEC300`
+
+[INFO] 2021-12-08 19:56:29,920 |pool-7-thread-11| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D3B372FA-6C15-E632-FF6C-99381CDEC300'...
+
+[INFO] 2021-12-08 19:56:29,920 |pool-7-thread-11| 
+Creating destination directories: /opt/backendless/repo/d3b372fa-6c15-e632-ff6c-99381cdec300/files
+
+[INFO] 2021-12-08 19:56:29,921 |pool-7-thread-11| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/d3b372fa-6c15-e632-ff6c-99381cdec300/files...
+
+[INFO] 2021-12-08 19:56:30,141 |pool-7-thread-11| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D3B372FA-6C15-E632-FF6C-99381CDEC300'
+
+[INFO] 2021-12-08 19:56:30,141 |pool-7-thread-11| 
+Initialize codegen for destination app 'D3B372FA-6C15-E632-FF6C-99381CDEC300'
+
+[INFO] 2021-12-08 19:56:30,155 |pool-7-thread-11| 
+Finished initialize codegen for destination app 'D3B372FA-6C15-E632-FF6C-99381CDEC300'
+
+[INFO] 2021-12-08 19:56:30,155 |pool-7-thread-11| 
+Cloning cache started
+
+[INFO] 2021-12-08 19:56:30,158 |pool-7-thread-11| 
+Cloning cache finished
+
+[INFO] 2021-12-08 19:56:30,158 |pool-7-thread-11| 
+Cloning counters started
+
+[INFO] 2021-12-08 19:56:30,159 |pool-7-thread-11| 
+Cloning counters finished
+
+[INFO] 2021-12-08 19:56:30,159 |pool-7-thread-11| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D3B372FA-6C15-E632-FF6C-99381CDEC300'...
+
+[INFO] 2021-12-08 19:56:30,681 |pool-7-thread-11| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D3B372FA-6C15-E632-FF6C-99381CDEC300'
+
+[INFO] 2021-12-08 19:56:30,681 |pool-7-thread-11| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D3B372FA-6C15-E632-FF6C-99381CDEC300'...
+
+[INFO] 2021-12-08 19:56:30,682 |pool-7-thread-11| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-08 19:56:30,684 |pool-7-thread-11| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-08 19:56:30,684 |pool-7-thread-11| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D3B372FA-6C15-E632-FF6C-99381CDEC300'
+
+[DEBUG] 2021-12-08 19:56:30,689 |pool-7-thread-11| 
+Original app character set: utf8mb4
+
+[DEBUG] 2021-12-08 19:56:30,689 |pool-7-thread-11| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-08 19:56:30,691 |pool-7-thread-11| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2021-12-08 19:56:30,691 |pool-7-thread-11| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-08 19:56:30,691 |pool-7-thread-11| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2021-12-08 19:56:30,691 |pool-7-thread-11| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2021-12-08 19:56:30,940 |pool-7-thread-11| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D3B372FA-6C15-E632-FF6C-99381CDEC300'
+
+[INFO] 2021-12-13 22:24:22,063 |pool-7-thread-4| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2021-12-13 22:24:22,067 |pool-7-thread-4| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '1EECBEF8-E76F-0DDC-FF26-E5142597A600'...
+
+[INFO] 2021-12-13 22:24:22,067 |pool-7-thread-4| 
+Creating schema `1EECBEF8-E76F-0DDC-FF26-E5142597A600`...
+
+[INFO] 2021-12-13 22:24:25,960 |pool-7-thread-4| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `1EECBEF8-E76F-0DDC-FF26-E5142597A600`
+
+[INFO] 2021-12-13 22:24:25,961 |pool-7-thread-4| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '1EECBEF8-E76F-0DDC-FF26-E5142597A600'...
+
+[INFO] 2021-12-13 22:24:25,961 |pool-7-thread-4| 
+Creating destination directories: /opt/backendless/repo/1eecbef8-e76f-0ddc-ff26-e5142597a600/files
+
+[INFO] 2021-12-13 22:24:25,962 |pool-7-thread-4| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/1eecbef8-e76f-0ddc-ff26-e5142597a600/files...
+
+[INFO] 2021-12-13 22:24:26,171 |pool-7-thread-4| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '1EECBEF8-E76F-0DDC-FF26-E5142597A600'
+
+[INFO] 2021-12-13 22:24:26,171 |pool-7-thread-4| 
+Initialize codegen for destination app '1EECBEF8-E76F-0DDC-FF26-E5142597A600'
+
+[INFO] 2021-12-13 22:24:26,183 |pool-7-thread-4| 
+Finished initialize codegen for destination app '1EECBEF8-E76F-0DDC-FF26-E5142597A600'
+
+[INFO] 2021-12-13 22:24:26,183 |pool-7-thread-4| 
+Cloning cache started
+
+[INFO] 2021-12-13 22:24:26,186 |pool-7-thread-4| 
+Cloning cache finished
+
+[INFO] 2021-12-13 22:24:26,186 |pool-7-thread-4| 
+Cloning counters started
+
+[INFO] 2021-12-13 22:24:26,187 |pool-7-thread-4| 
+Cloning counters finished
+
+[INFO] 2021-12-13 22:24:26,187 |pool-7-thread-4| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '1EECBEF8-E76F-0DDC-FF26-E5142597A600'...
+
+[INFO] 2021-12-13 22:24:26,248 |pool-7-thread-4| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '1EECBEF8-E76F-0DDC-FF26-E5142597A600'
+
+[INFO] 2021-12-13 22:24:26,248 |pool-7-thread-4| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '1EECBEF8-E76F-0DDC-FF26-E5142597A600'...
+
+[INFO] 2021-12-13 22:24:26,250 |pool-7-thread-4| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-13 22:24:26,251 |pool-7-thread-4| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-13 22:24:26,251 |pool-7-thread-4| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '1EECBEF8-E76F-0DDC-FF26-E5142597A600'
+
+[DEBUG] 2021-12-13 22:24:26,263 |pool-7-thread-4| 
+Original app character set: utf8mb4
+
+[DEBUG] 2021-12-13 22:24:26,263 |pool-7-thread-4| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-13 22:24:26,266 |pool-7-thread-4| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2021-12-13 22:24:26,266 |pool-7-thread-4| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-13 22:24:26,266 |pool-7-thread-4| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2021-12-13 22:24:26,266 |pool-7-thread-4| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2021-12-13 22:24:26,539 |pool-7-thread-4| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '1EECBEF8-E76F-0DDC-FF26-E5142597A600'
+
+[INFO] 2021-12-15 06:58:15,287 |pool-7-thread-18| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2021-12-15 06:58:15,291 |pool-7-thread-18| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'B665C062-CF83-7F52-FF5E-3CB755954600'...
+
+[INFO] 2021-12-15 06:58:15,291 |pool-7-thread-18| 
+Creating schema `B665C062-CF83-7F52-FF5E-3CB755954600`...
+
+[INFO] 2021-12-15 06:58:19,390 |pool-7-thread-18| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `B665C062-CF83-7F52-FF5E-3CB755954600`
+
+[INFO] 2021-12-15 06:58:19,390 |pool-7-thread-18| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'B665C062-CF83-7F52-FF5E-3CB755954600'...
+
+[INFO] 2021-12-15 06:58:19,390 |pool-7-thread-18| 
+Creating destination directories: /opt/backendless/repo/b665c062-cf83-7f52-ff5e-3cb755954600/files
+
+[INFO] 2021-12-15 06:58:19,391 |pool-7-thread-18| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/b665c062-cf83-7f52-ff5e-3cb755954600/files...
+
+[INFO] 2021-12-15 06:58:19,594 |pool-7-thread-18| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'B665C062-CF83-7F52-FF5E-3CB755954600'
+
+[INFO] 2021-12-15 06:58:19,595 |pool-7-thread-18| 
+Initialize codegen for destination app 'B665C062-CF83-7F52-FF5E-3CB755954600'
+
+[INFO] 2021-12-15 06:58:19,606 |pool-7-thread-18| 
+Finished initialize codegen for destination app 'B665C062-CF83-7F52-FF5E-3CB755954600'
+
+[INFO] 2021-12-15 06:58:19,606 |pool-7-thread-18| 
+Cloning cache started
+
+[INFO] 2021-12-15 06:58:19,607 |pool-7-thread-18| 
+Cloning cache finished
+
+[INFO] 2021-12-15 06:58:19,607 |pool-7-thread-18| 
+Cloning counters started
+
+[INFO] 2021-12-15 06:58:19,608 |pool-7-thread-18| 
+Cloning counters finished
+
+[INFO] 2021-12-15 06:58:19,608 |pool-7-thread-18| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'B665C062-CF83-7F52-FF5E-3CB755954600'...
+
+[INFO] 2021-12-15 06:58:19,610 |pool-7-thread-18| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'B665C062-CF83-7F52-FF5E-3CB755954600'
+
+[INFO] 2021-12-15 06:58:19,610 |pool-7-thread-18| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'B665C062-CF83-7F52-FF5E-3CB755954600'...
+
+[INFO] 2021-12-15 06:58:19,611 |pool-7-thread-18| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-15 06:58:19,612 |pool-7-thread-18| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-15 06:58:19,612 |pool-7-thread-18| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'B665C062-CF83-7F52-FF5E-3CB755954600'
+
+[DEBUG] 2021-12-15 06:58:19,617 |pool-7-thread-18| 
+Original app character set: utf8mb4
+
+[DEBUG] 2021-12-15 06:58:19,617 |pool-7-thread-18| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-15 06:58:19,619 |pool-7-thread-18| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2021-12-15 06:58:19,619 |pool-7-thread-18| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-15 06:58:19,619 |pool-7-thread-18| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2021-12-15 06:58:19,619 |pool-7-thread-18| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2021-12-15 06:58:19,881 |pool-7-thread-18| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'B665C062-CF83-7F52-FF5E-3CB755954600'
+
+[INFO] 2021-12-16 23:21:28,584 |pool-7-thread-13| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2021-12-16 23:21:28,587 |pool-7-thread-13| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4C4B271F-9697-44A0-FF67-1EF3A32FAC00'...
+
+[INFO] 2021-12-16 23:21:28,587 |pool-7-thread-13| 
+Creating schema `4C4B271F-9697-44A0-FF67-1EF3A32FAC00`...
+
+[INFO] 2021-12-16 23:21:33,173 |pool-7-thread-13| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `4C4B271F-9697-44A0-FF67-1EF3A32FAC00`
+
+[INFO] 2021-12-16 23:21:33,173 |pool-7-thread-13| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4C4B271F-9697-44A0-FF67-1EF3A32FAC00'...
+
+[INFO] 2021-12-16 23:21:33,173 |pool-7-thread-13| 
+Creating destination directories: /opt/backendless/repo/4c4b271f-9697-44a0-ff67-1ef3a32fac00/files
+
+[INFO] 2021-12-16 23:21:33,174 |pool-7-thread-13| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/4c4b271f-9697-44a0-ff67-1ef3a32fac00/files...
+
+[INFO] 2021-12-16 23:21:33,398 |pool-7-thread-13| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4C4B271F-9697-44A0-FF67-1EF3A32FAC00'
+
+[INFO] 2021-12-16 23:21:33,399 |pool-7-thread-13| 
+Initialize codegen for destination app '4C4B271F-9697-44A0-FF67-1EF3A32FAC00'
+
+[INFO] 2021-12-16 23:21:33,410 |pool-7-thread-13| 
+Finished initialize codegen for destination app '4C4B271F-9697-44A0-FF67-1EF3A32FAC00'
+
+[INFO] 2021-12-16 23:21:33,410 |pool-7-thread-13| 
+Cloning cache started
+
+[INFO] 2021-12-16 23:21:33,411 |pool-7-thread-13| 
+Cloning cache finished
+
+[INFO] 2021-12-16 23:21:33,411 |pool-7-thread-13| 
+Cloning counters started
+
+[INFO] 2021-12-16 23:21:33,412 |pool-7-thread-13| 
+Cloning counters finished
+
+[INFO] 2021-12-16 23:21:33,412 |pool-7-thread-13| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4C4B271F-9697-44A0-FF67-1EF3A32FAC00'...
+
+[INFO] 2021-12-16 23:21:33,413 |pool-7-thread-13| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4C4B271F-9697-44A0-FF67-1EF3A32FAC00'
+
+[INFO] 2021-12-16 23:21:33,414 |pool-7-thread-13| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4C4B271F-9697-44A0-FF67-1EF3A32FAC00'...
+
+[INFO] 2021-12-16 23:21:33,414 |pool-7-thread-13| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-16 23:21:33,415 |pool-7-thread-13| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-16 23:21:33,416 |pool-7-thread-13| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4C4B271F-9697-44A0-FF67-1EF3A32FAC00'
+
+[DEBUG] 2021-12-16 23:21:33,419 |pool-7-thread-13| 
+Original app character set: utf8mb4
+
+[DEBUG] 2021-12-16 23:21:33,419 |pool-7-thread-13| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-16 23:21:33,421 |pool-7-thread-13| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2021-12-16 23:21:33,421 |pool-7-thread-13| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-16 23:21:33,421 |pool-7-thread-13| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2021-12-16 23:21:33,421 |pool-7-thread-13| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2021-12-16 23:21:33,676 |pool-7-thread-13| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4C4B271F-9697-44A0-FF67-1EF3A32FAC00'
+
+[INFO] 2021-12-23 11:20:37,631 |pool-7-thread-33| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2021-12-23 11:20:37,634 |pool-7-thread-33| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '71830CFC-D02D-01D6-FF3C-4713E0FA0300'...
+
+[INFO] 2021-12-23 11:20:37,634 |pool-7-thread-33| 
+Creating schema `71830CFC-D02D-01D6-FF3C-4713E0FA0300`...
+
+[INFO] 2021-12-23 11:20:42,058 |pool-7-thread-33| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `71830CFC-D02D-01D6-FF3C-4713E0FA0300`
+
+[INFO] 2021-12-23 11:20:42,058 |pool-7-thread-33| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '71830CFC-D02D-01D6-FF3C-4713E0FA0300'...
+
+[INFO] 2021-12-23 11:20:42,058 |pool-7-thread-33| 
+Creating destination directories: /opt/backendless/repo/71830cfc-d02d-01d6-ff3c-4713e0fa0300/files
+
+[INFO] 2021-12-23 11:20:42,059 |pool-7-thread-33| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/71830cfc-d02d-01d6-ff3c-4713e0fa0300/files...
+
+[INFO] 2021-12-23 11:20:42,265 |pool-7-thread-33| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '71830CFC-D02D-01D6-FF3C-4713E0FA0300'
+
+[INFO] 2021-12-23 11:20:42,265 |pool-7-thread-33| 
+Initialize codegen for destination app '71830CFC-D02D-01D6-FF3C-4713E0FA0300'
+
+[INFO] 2021-12-23 11:20:42,277 |pool-7-thread-33| 
+Finished initialize codegen for destination app '71830CFC-D02D-01D6-FF3C-4713E0FA0300'
+
+[INFO] 2021-12-23 11:20:42,277 |pool-7-thread-33| 
+Cloning cache started
+
+[INFO] 2021-12-23 11:20:42,278 |pool-7-thread-33| 
+Cloning cache finished
+
+[INFO] 2021-12-23 11:20:42,278 |pool-7-thread-33| 
+Cloning counters started
+
+[INFO] 2021-12-23 11:20:42,279 |pool-7-thread-33| 
+Cloning counters finished
+
+[INFO] 2021-12-23 11:20:42,279 |pool-7-thread-33| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '71830CFC-D02D-01D6-FF3C-4713E0FA0300'...
+
+[INFO] 2021-12-23 11:20:42,281 |pool-7-thread-33| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '71830CFC-D02D-01D6-FF3C-4713E0FA0300'
+
+[INFO] 2021-12-23 11:20:42,281 |pool-7-thread-33| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '71830CFC-D02D-01D6-FF3C-4713E0FA0300'...
+
+[INFO] 2021-12-23 11:20:42,282 |pool-7-thread-33| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-23 11:20:42,283 |pool-7-thread-33| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-23 11:20:42,284 |pool-7-thread-33| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '71830CFC-D02D-01D6-FF3C-4713E0FA0300'
+
+[DEBUG] 2021-12-23 11:20:42,286 |pool-7-thread-33| 
+Original app character set: utf8mb4
+
+[DEBUG] 2021-12-23 11:20:42,287 |pool-7-thread-33| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-23 11:20:42,288 |pool-7-thread-33| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2021-12-23 11:20:42,288 |pool-7-thread-33| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-23 11:20:42,289 |pool-7-thread-33| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2021-12-23 11:20:42,289 |pool-7-thread-33| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2021-12-23 11:20:42,533 |pool-7-thread-33| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '71830CFC-D02D-01D6-FF3C-4713E0FA0300'
+
+[INFO] 2021-12-23 11:36:10,599 |pool-7-thread-5| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2021-12-23 11:36:10,607 |pool-7-thread-5| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'DB807380-DC1F-AF0F-FF6F-B99F76529400'...
+
+[INFO] 2021-12-23 11:36:10,607 |pool-7-thread-5| 
+Creating schema `DB807380-DC1F-AF0F-FF6F-B99F76529400`...
+
+[INFO] 2021-12-23 11:36:13,942 |pool-7-thread-5| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `DB807380-DC1F-AF0F-FF6F-B99F76529400`
+
+[INFO] 2021-12-23 11:36:13,942 |pool-7-thread-5| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'DB807380-DC1F-AF0F-FF6F-B99F76529400'...
+
+[INFO] 2021-12-23 11:36:13,942 |pool-7-thread-5| 
+Creating destination directories: /opt/backendless/repo/db807380-dc1f-af0f-ff6f-b99f76529400/files
+
+[INFO] 2021-12-23 11:36:13,943 |pool-7-thread-5| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/db807380-dc1f-af0f-ff6f-b99f76529400/files...
+
+[INFO] 2021-12-23 11:36:14,139 |pool-7-thread-5| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'DB807380-DC1F-AF0F-FF6F-B99F76529400'
+
+[INFO] 2021-12-23 11:36:14,139 |pool-7-thread-5| 
+Initialize codegen for destination app 'DB807380-DC1F-AF0F-FF6F-B99F76529400'
+
+[INFO] 2021-12-23 11:36:14,151 |pool-7-thread-5| 
+Finished initialize codegen for destination app 'DB807380-DC1F-AF0F-FF6F-B99F76529400'
+
+[INFO] 2021-12-23 11:36:14,151 |pool-7-thread-5| 
+Cloning cache started
+
+[INFO] 2021-12-23 11:36:14,152 |pool-7-thread-5| 
+Cloning cache finished
+
+[INFO] 2021-12-23 11:36:14,153 |pool-7-thread-5| 
+Cloning counters started
+
+[INFO] 2021-12-23 11:36:14,153 |pool-7-thread-5| 
+Cloning counters finished
+
+[INFO] 2021-12-23 11:36:14,153 |pool-7-thread-5| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'DB807380-DC1F-AF0F-FF6F-B99F76529400'...
+
+[INFO] 2021-12-23 11:36:14,155 |pool-7-thread-5| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'DB807380-DC1F-AF0F-FF6F-B99F76529400'
+
+[INFO] 2021-12-23 11:36:14,155 |pool-7-thread-5| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'DB807380-DC1F-AF0F-FF6F-B99F76529400'...
+
+[INFO] 2021-12-23 11:36:14,156 |pool-7-thread-5| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-23 11:36:14,157 |pool-7-thread-5| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-23 11:36:14,158 |pool-7-thread-5| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'DB807380-DC1F-AF0F-FF6F-B99F76529400'
+
+[DEBUG] 2021-12-23 11:36:14,160 |pool-7-thread-5| 
+Original app character set: utf8mb4
+
+[DEBUG] 2021-12-23 11:36:14,160 |pool-7-thread-5| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-23 11:36:14,162 |pool-7-thread-5| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2021-12-23 11:36:14,162 |pool-7-thread-5| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-23 11:36:14,162 |pool-7-thread-5| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2021-12-23 11:36:14,162 |pool-7-thread-5| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2021-12-23 11:36:14,411 |pool-7-thread-5| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'DB807380-DC1F-AF0F-FF6F-B99F76529400'
+
+[INFO] 2021-12-25 12:06:39,107 |pool-7-thread-14| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2021-12-25 12:06:39,113 |pool-7-thread-14| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4DD71BA5-73F8-4E44-FFF9-6A25B3D15800'...
+
+[INFO] 2021-12-25 12:06:39,113 |pool-7-thread-14| 
+Creating schema `4DD71BA5-73F8-4E44-FFF9-6A25B3D15800`...
+
+[INFO] 2021-12-25 12:06:43,551 |pool-7-thread-14| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `4DD71BA5-73F8-4E44-FFF9-6A25B3D15800`
+
+[INFO] 2021-12-25 12:06:43,551 |pool-7-thread-14| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4DD71BA5-73F8-4E44-FFF9-6A25B3D15800'...
+
+[INFO] 2021-12-25 12:06:43,551 |pool-7-thread-14| 
+Creating destination directories: /opt/backendless/repo/4dd71ba5-73f8-4e44-fff9-6a25b3d15800/files
+
+[INFO] 2021-12-25 12:06:43,552 |pool-7-thread-14| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/4dd71ba5-73f8-4e44-fff9-6a25b3d15800/files...
+
+[INFO] 2021-12-25 12:06:43,774 |pool-7-thread-14| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4DD71BA5-73F8-4E44-FFF9-6A25B3D15800'
+
+[INFO] 2021-12-25 12:06:43,774 |pool-7-thread-14| 
+Initialize codegen for destination app '4DD71BA5-73F8-4E44-FFF9-6A25B3D15800'
+
+[INFO] 2021-12-25 12:06:43,788 |pool-7-thread-14| 
+Finished initialize codegen for destination app '4DD71BA5-73F8-4E44-FFF9-6A25B3D15800'
+
+[INFO] 2021-12-25 12:06:43,788 |pool-7-thread-14| 
+Cloning cache started
+
+[INFO] 2021-12-25 12:06:43,790 |pool-7-thread-14| 
+Cloning cache finished
+
+[INFO] 2021-12-25 12:06:43,790 |pool-7-thread-14| 
+Cloning counters started
+
+[INFO] 2021-12-25 12:06:43,791 |pool-7-thread-14| 
+Cloning counters finished
+
+[INFO] 2021-12-25 12:06:43,791 |pool-7-thread-14| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4DD71BA5-73F8-4E44-FFF9-6A25B3D15800'...
+
+[INFO] 2021-12-25 12:06:44,317 |pool-7-thread-14| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4DD71BA5-73F8-4E44-FFF9-6A25B3D15800'
+
+[INFO] 2021-12-25 12:06:44,317 |pool-7-thread-14| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4DD71BA5-73F8-4E44-FFF9-6A25B3D15800'...
+
+[INFO] 2021-12-25 12:06:44,318 |pool-7-thread-14| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-25 12:06:44,320 |pool-7-thread-14| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-25 12:06:44,320 |pool-7-thread-14| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4DD71BA5-73F8-4E44-FFF9-6A25B3D15800'
+
+[DEBUG] 2021-12-25 12:06:44,323 |pool-7-thread-14| 
+Original app character set: utf8mb4
+
+[DEBUG] 2021-12-25 12:06:44,323 |pool-7-thread-14| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-25 12:06:44,325 |pool-7-thread-14| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2021-12-25 12:06:44,325 |pool-7-thread-14| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-25 12:06:44,325 |pool-7-thread-14| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2021-12-25 12:06:44,325 |pool-7-thread-14| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2021-12-25 12:06:44,567 |pool-7-thread-14| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4DD71BA5-73F8-4E44-FFF9-6A25B3D15800'
+
+[INFO] 2021-12-27 20:30:54,375 |pool-7-thread-30| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2021-12-27 20:30:54,379 |pool-7-thread-30| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FD82CF44-C19A-F2D0-FF3F-94AD416E8700'...
+
+[INFO] 2021-12-27 20:30:54,379 |pool-7-thread-30| 
+Creating schema `FD82CF44-C19A-F2D0-FF3F-94AD416E8700`...
+
+[INFO] 2021-12-27 20:30:57,594 |pool-7-thread-30| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `FD82CF44-C19A-F2D0-FF3F-94AD416E8700`
+
+[INFO] 2021-12-27 20:30:57,594 |pool-7-thread-30| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FD82CF44-C19A-F2D0-FF3F-94AD416E8700'...
+
+[INFO] 2021-12-27 20:30:57,594 |pool-7-thread-30| 
+Creating destination directories: /opt/backendless/repo/fd82cf44-c19a-f2d0-ff3f-94ad416e8700/files
+
+[INFO] 2021-12-27 20:30:57,595 |pool-7-thread-30| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/fd82cf44-c19a-f2d0-ff3f-94ad416e8700/files...
+
+[INFO] 2021-12-27 20:30:57,787 |pool-7-thread-30| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FD82CF44-C19A-F2D0-FF3F-94AD416E8700'
+
+[INFO] 2021-12-27 20:30:57,787 |pool-7-thread-30| 
+Initialize codegen for destination app 'FD82CF44-C19A-F2D0-FF3F-94AD416E8700'
+
+[INFO] 2021-12-27 20:30:57,798 |pool-7-thread-30| 
+Finished initialize codegen for destination app 'FD82CF44-C19A-F2D0-FF3F-94AD416E8700'
+
+[INFO] 2021-12-27 20:30:57,798 |pool-7-thread-30| 
+Cloning cache started
+
+[INFO] 2021-12-27 20:30:57,799 |pool-7-thread-30| 
+Cloning cache finished
+
+[INFO] 2021-12-27 20:30:57,800 |pool-7-thread-30| 
+Cloning counters started
+
+[INFO] 2021-12-27 20:30:57,800 |pool-7-thread-30| 
+Cloning counters finished
+
+[INFO] 2021-12-27 20:30:57,800 |pool-7-thread-30| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FD82CF44-C19A-F2D0-FF3F-94AD416E8700'...
+
+[INFO] 2021-12-27 20:30:57,802 |pool-7-thread-30| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FD82CF44-C19A-F2D0-FF3F-94AD416E8700'
+
+[INFO] 2021-12-27 20:30:57,802 |pool-7-thread-30| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FD82CF44-C19A-F2D0-FF3F-94AD416E8700'...
+
+[INFO] 2021-12-27 20:30:57,803 |pool-7-thread-30| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-27 20:30:57,804 |pool-7-thread-30| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2021-12-27 20:30:57,804 |pool-7-thread-30| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FD82CF44-C19A-F2D0-FF3F-94AD416E8700'
+
+[DEBUG] 2021-12-27 20:30:57,808 |pool-7-thread-30| 
+Original app character set: utf8mb4
+
+[DEBUG] 2021-12-27 20:30:57,808 |pool-7-thread-30| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-27 20:30:57,811 |pool-7-thread-30| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2021-12-27 20:30:57,811 |pool-7-thread-30| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2021-12-27 20:30:57,811 |pool-7-thread-30| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2021-12-27 20:30:57,811 |pool-7-thread-30| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2021-12-27 20:30:58,059 |pool-7-thread-30| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FD82CF44-C19A-F2D0-FF3F-94AD416E8700'
+
+[INFO] 2022-01-06 13:12:14,754 |pool-7-thread-26| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-06 13:12:14,756 |pool-7-thread-26| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4E304077-6124-00D6-FFB1-2045175F8600'...
+
+[INFO] 2022-01-06 13:12:14,756 |pool-7-thread-26| 
+Creating schema `4E304077-6124-00D6-FFB1-2045175F8600`...
+
+[INFO] 2022-01-06 13:12:19,200 |pool-7-thread-26| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `4E304077-6124-00D6-FFB1-2045175F8600`
+
+[INFO] 2022-01-06 13:12:19,200 |pool-7-thread-26| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4E304077-6124-00D6-FFB1-2045175F8600'...
+
+[INFO] 2022-01-06 13:12:19,200 |pool-7-thread-26| 
+Creating destination directories: /opt/backendless/repo/4e304077-6124-00d6-ffb1-2045175f8600/files
+
+[INFO] 2022-01-06 13:12:19,201 |pool-7-thread-26| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/4e304077-6124-00d6-ffb1-2045175f8600/files...
+
+[INFO] 2022-01-06 13:12:19,401 |pool-7-thread-26| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4E304077-6124-00D6-FFB1-2045175F8600'
+
+[INFO] 2022-01-06 13:12:19,401 |pool-7-thread-26| 
+Initialize codegen for destination app '4E304077-6124-00D6-FFB1-2045175F8600'
+
+[INFO] 2022-01-06 13:12:19,412 |pool-7-thread-26| 
+Finished initialize codegen for destination app '4E304077-6124-00D6-FFB1-2045175F8600'
+
+[INFO] 2022-01-06 13:12:19,412 |pool-7-thread-26| 
+Cloning cache started
+
+[INFO] 2022-01-06 13:12:19,413 |pool-7-thread-26| 
+Cloning cache finished
+
+[INFO] 2022-01-06 13:12:19,413 |pool-7-thread-26| 
+Cloning counters started
+
+[INFO] 2022-01-06 13:12:19,414 |pool-7-thread-26| 
+Cloning counters finished
+
+[INFO] 2022-01-06 13:12:19,414 |pool-7-thread-26| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4E304077-6124-00D6-FFB1-2045175F8600'...
+
+[INFO] 2022-01-06 13:12:19,415 |pool-7-thread-26| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4E304077-6124-00D6-FFB1-2045175F8600'
+
+[INFO] 2022-01-06 13:12:19,415 |pool-7-thread-26| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4E304077-6124-00D6-FFB1-2045175F8600'...
+
+[INFO] 2022-01-06 13:12:19,416 |pool-7-thread-26| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-06 13:12:19,417 |pool-7-thread-26| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-06 13:12:19,418 |pool-7-thread-26| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4E304077-6124-00D6-FFB1-2045175F8600'
+
+[DEBUG] 2022-01-06 13:12:19,421 |pool-7-thread-26| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-06 13:12:19,421 |pool-7-thread-26| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-06 13:12:19,422 |pool-7-thread-26| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-06 13:12:19,422 |pool-7-thread-26| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-06 13:12:19,422 |pool-7-thread-26| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-06 13:12:19,422 |pool-7-thread-26| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-06 13:12:19,668 |pool-7-thread-26| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '4E304077-6124-00D6-FFB1-2045175F8600'
+
+[INFO] 2022-01-06 20:45:14,753 |pool-7-thread-34| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-06 20:45:14,758 |pool-7-thread-34| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CFE62094-FA7E-AA18-FFD5-3615E2178000'...
+
+[INFO] 2022-01-06 20:45:14,758 |pool-7-thread-34| 
+Creating schema `CFE62094-FA7E-AA18-FFD5-3615E2178000`...
+
+[INFO] 2022-01-06 20:45:18,959 |pool-7-thread-34| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `CFE62094-FA7E-AA18-FFD5-3615E2178000`
+
+[INFO] 2022-01-06 20:45:18,959 |pool-7-thread-34| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CFE62094-FA7E-AA18-FFD5-3615E2178000'...
+
+[INFO] 2022-01-06 20:45:18,959 |pool-7-thread-34| 
+Creating destination directories: /opt/backendless/repo/cfe62094-fa7e-aa18-ffd5-3615e2178000/files
+
+[INFO] 2022-01-06 20:45:18,960 |pool-7-thread-34| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/cfe62094-fa7e-aa18-ffd5-3615e2178000/files...
+
+[INFO] 2022-01-06 20:45:19,158 |pool-7-thread-34| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CFE62094-FA7E-AA18-FFD5-3615E2178000'
+
+[INFO] 2022-01-06 20:45:19,158 |pool-7-thread-34| 
+Initialize codegen for destination app 'CFE62094-FA7E-AA18-FFD5-3615E2178000'
+
+[INFO] 2022-01-06 20:45:19,169 |pool-7-thread-34| 
+Finished initialize codegen for destination app 'CFE62094-FA7E-AA18-FFD5-3615E2178000'
+
+[INFO] 2022-01-06 20:45:19,169 |pool-7-thread-34| 
+Cloning cache started
+
+[INFO] 2022-01-06 20:45:19,171 |pool-7-thread-34| 
+Cloning cache finished
+
+[INFO] 2022-01-06 20:45:19,171 |pool-7-thread-34| 
+Cloning counters started
+
+[INFO] 2022-01-06 20:45:19,171 |pool-7-thread-34| 
+Cloning counters finished
+
+[INFO] 2022-01-06 20:45:19,171 |pool-7-thread-34| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CFE62094-FA7E-AA18-FFD5-3615E2178000'...
+
+[INFO] 2022-01-06 20:45:19,173 |pool-7-thread-34| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CFE62094-FA7E-AA18-FFD5-3615E2178000'
+
+[INFO] 2022-01-06 20:45:19,173 |pool-7-thread-34| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CFE62094-FA7E-AA18-FFD5-3615E2178000'...
+
+[INFO] 2022-01-06 20:45:19,174 |pool-7-thread-34| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-06 20:45:19,175 |pool-7-thread-34| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-06 20:45:19,176 |pool-7-thread-34| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CFE62094-FA7E-AA18-FFD5-3615E2178000'
+
+[DEBUG] 2022-01-06 20:45:19,178 |pool-7-thread-34| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-06 20:45:19,178 |pool-7-thread-34| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-06 20:45:19,180 |pool-7-thread-34| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-06 20:45:19,180 |pool-7-thread-34| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-06 20:45:19,180 |pool-7-thread-34| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-06 20:45:19,180 |pool-7-thread-34| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-06 20:45:19,893 |pool-7-thread-34| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CFE62094-FA7E-AA18-FFD5-3615E2178000'
+
+[INFO] 2022-01-09 11:34:52,706 |pool-7-thread-38| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-09 11:34:52,709 |pool-7-thread-38| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'F1CE7563-6ECB-C643-FF13-A7DFD9212500'...
+
+[INFO] 2022-01-09 11:34:52,709 |pool-7-thread-38| 
+Creating schema `F1CE7563-6ECB-C643-FF13-A7DFD9212500`...
+
+[INFO] 2022-01-09 11:34:56,892 |pool-7-thread-38| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `F1CE7563-6ECB-C643-FF13-A7DFD9212500`
+
+[INFO] 2022-01-09 11:34:56,892 |pool-7-thread-38| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'F1CE7563-6ECB-C643-FF13-A7DFD9212500'...
+
+[INFO] 2022-01-09 11:34:56,892 |pool-7-thread-38| 
+Creating destination directories: /opt/backendless/repo/f1ce7563-6ecb-c643-ff13-a7dfd9212500/files
+
+[INFO] 2022-01-09 11:34:56,893 |pool-7-thread-38| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/f1ce7563-6ecb-c643-ff13-a7dfd9212500/files...
+
+[INFO] 2022-01-09 11:34:57,103 |pool-7-thread-38| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'F1CE7563-6ECB-C643-FF13-A7DFD9212500'
+
+[INFO] 2022-01-09 11:34:57,103 |pool-7-thread-38| 
+Initialize codegen for destination app 'F1CE7563-6ECB-C643-FF13-A7DFD9212500'
+
+[INFO] 2022-01-09 11:34:57,115 |pool-7-thread-38| 
+Finished initialize codegen for destination app 'F1CE7563-6ECB-C643-FF13-A7DFD9212500'
+
+[INFO] 2022-01-09 11:34:57,115 |pool-7-thread-38| 
+Cloning cache started
+
+[INFO] 2022-01-09 11:34:57,117 |pool-7-thread-38| 
+Cloning cache finished
+
+[INFO] 2022-01-09 11:34:57,117 |pool-7-thread-38| 
+Cloning counters started
+
+[INFO] 2022-01-09 11:34:57,117 |pool-7-thread-38| 
+Cloning counters finished
+
+[INFO] 2022-01-09 11:34:57,117 |pool-7-thread-38| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'F1CE7563-6ECB-C643-FF13-A7DFD9212500'...
+
+[INFO] 2022-01-09 11:34:57,119 |pool-7-thread-38| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'F1CE7563-6ECB-C643-FF13-A7DFD9212500'
+
+[INFO] 2022-01-09 11:34:57,119 |pool-7-thread-38| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'F1CE7563-6ECB-C643-FF13-A7DFD9212500'...
+
+[INFO] 2022-01-09 11:34:57,120 |pool-7-thread-38| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-09 11:34:57,121 |pool-7-thread-38| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-09 11:34:57,121 |pool-7-thread-38| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'F1CE7563-6ECB-C643-FF13-A7DFD9212500'
+
+[DEBUG] 2022-01-09 11:34:57,125 |pool-7-thread-38| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-09 11:34:57,125 |pool-7-thread-38| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-09 11:34:57,127 |pool-7-thread-38| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-09 11:34:57,127 |pool-7-thread-38| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-09 11:34:57,127 |pool-7-thread-38| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-09 11:34:57,127 |pool-7-thread-38| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-09 11:34:57,370 |pool-7-thread-38| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'F1CE7563-6ECB-C643-FF13-A7DFD9212500'
+
+[INFO] 2022-01-09 19:59:28,472 |pool-7-thread-38| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-09 19:59:28,474 |pool-7-thread-38| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FE261CA9-B419-CA2E-FF4A-437711EA6F00'...
+
+[INFO] 2022-01-09 19:59:28,474 |pool-7-thread-38| 
+Creating schema `FE261CA9-B419-CA2E-FF4A-437711EA6F00`...
+
+[INFO] 2022-01-09 19:59:32,758 |pool-7-thread-38| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `FE261CA9-B419-CA2E-FF4A-437711EA6F00`
+
+[INFO] 2022-01-09 19:59:32,758 |pool-7-thread-38| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FE261CA9-B419-CA2E-FF4A-437711EA6F00'...
+
+[INFO] 2022-01-09 19:59:32,758 |pool-7-thread-38| 
+Creating destination directories: /opt/backendless/repo/fe261ca9-b419-ca2e-ff4a-437711ea6f00/files
+
+[INFO] 2022-01-09 19:59:32,759 |pool-7-thread-38| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/fe261ca9-b419-ca2e-ff4a-437711ea6f00/files...
+
+[INFO] 2022-01-09 19:59:32,936 |pool-7-thread-38| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FE261CA9-B419-CA2E-FF4A-437711EA6F00'
+
+[INFO] 2022-01-09 19:59:32,936 |pool-7-thread-38| 
+Initialize codegen for destination app 'FE261CA9-B419-CA2E-FF4A-437711EA6F00'
+
+[INFO] 2022-01-09 19:59:32,948 |pool-7-thread-38| 
+Finished initialize codegen for destination app 'FE261CA9-B419-CA2E-FF4A-437711EA6F00'
+
+[INFO] 2022-01-09 19:59:32,948 |pool-7-thread-38| 
+Cloning cache started
+
+[INFO] 2022-01-09 19:59:32,949 |pool-7-thread-38| 
+Cloning cache finished
+
+[INFO] 2022-01-09 19:59:32,949 |pool-7-thread-38| 
+Cloning counters started
+
+[INFO] 2022-01-09 19:59:32,949 |pool-7-thread-38| 
+Cloning counters finished
+
+[INFO] 2022-01-09 19:59:32,949 |pool-7-thread-38| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FE261CA9-B419-CA2E-FF4A-437711EA6F00'...
+
+[INFO] 2022-01-09 19:59:32,951 |pool-7-thread-38| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FE261CA9-B419-CA2E-FF4A-437711EA6F00'
+
+[INFO] 2022-01-09 19:59:32,951 |pool-7-thread-38| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FE261CA9-B419-CA2E-FF4A-437711EA6F00'...
+
+[INFO] 2022-01-09 19:59:32,952 |pool-7-thread-38| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-09 19:59:32,953 |pool-7-thread-38| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-09 19:59:32,954 |pool-7-thread-38| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FE261CA9-B419-CA2E-FF4A-437711EA6F00'
+
+[DEBUG] 2022-01-09 19:59:32,957 |pool-7-thread-38| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-09 19:59:32,957 |pool-7-thread-38| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-09 19:59:32,959 |pool-7-thread-38| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-09 19:59:32,959 |pool-7-thread-38| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-09 19:59:32,959 |pool-7-thread-38| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-09 19:59:32,959 |pool-7-thread-38| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-09 19:59:33,202 |pool-7-thread-38| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'FE261CA9-B419-CA2E-FF4A-437711EA6F00'
+
+[INFO] 2022-01-11 21:07:04,012 |pool-7-thread-4| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-11 21:07:04,015 |pool-7-thread-4| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D680D5E5-0FDB-7C0C-FF4A-0549CAF7FE00'...
+
+[INFO] 2022-01-11 21:07:04,016 |pool-7-thread-4| 
+Creating schema `D680D5E5-0FDB-7C0C-FF4A-0549CAF7FE00`...
+
+[INFO] 2022-01-11 21:07:08,596 |pool-7-thread-4| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `D680D5E5-0FDB-7C0C-FF4A-0549CAF7FE00`
+
+[INFO] 2022-01-11 21:07:08,596 |pool-7-thread-4| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D680D5E5-0FDB-7C0C-FF4A-0549CAF7FE00'...
+
+[INFO] 2022-01-11 21:07:08,596 |pool-7-thread-4| 
+Creating destination directories: /opt/backendless/repo/d680d5e5-0fdb-7c0c-ff4a-0549caf7fe00/files
+
+[INFO] 2022-01-11 21:07:08,597 |pool-7-thread-4| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/d680d5e5-0fdb-7c0c-ff4a-0549caf7fe00/files...
+
+[INFO] 2022-01-11 21:07:08,790 |pool-7-thread-4| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D680D5E5-0FDB-7C0C-FF4A-0549CAF7FE00'
+
+[INFO] 2022-01-11 21:07:08,790 |pool-7-thread-4| 
+Initialize codegen for destination app 'D680D5E5-0FDB-7C0C-FF4A-0549CAF7FE00'
+
+[INFO] 2022-01-11 21:07:08,801 |pool-7-thread-4| 
+Finished initialize codegen for destination app 'D680D5E5-0FDB-7C0C-FF4A-0549CAF7FE00'
+
+[INFO] 2022-01-11 21:07:08,801 |pool-7-thread-4| 
+Cloning cache started
+
+[INFO] 2022-01-11 21:07:08,802 |pool-7-thread-4| 
+Cloning cache finished
+
+[INFO] 2022-01-11 21:07:08,802 |pool-7-thread-4| 
+Cloning counters started
+
+[INFO] 2022-01-11 21:07:08,803 |pool-7-thread-4| 
+Cloning counters finished
+
+[INFO] 2022-01-11 21:07:08,803 |pool-7-thread-4| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D680D5E5-0FDB-7C0C-FF4A-0549CAF7FE00'...
+
+[INFO] 2022-01-11 21:07:08,804 |pool-7-thread-4| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D680D5E5-0FDB-7C0C-FF4A-0549CAF7FE00'
+
+[INFO] 2022-01-11 21:07:08,804 |pool-7-thread-4| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D680D5E5-0FDB-7C0C-FF4A-0549CAF7FE00'...
+
+[INFO] 2022-01-11 21:07:08,805 |pool-7-thread-4| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-11 21:07:08,807 |pool-7-thread-4| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-11 21:07:08,807 |pool-7-thread-4| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D680D5E5-0FDB-7C0C-FF4A-0549CAF7FE00'
+
+[DEBUG] 2022-01-11 21:07:08,810 |pool-7-thread-4| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-11 21:07:08,810 |pool-7-thread-4| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-11 21:07:08,812 |pool-7-thread-4| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-11 21:07:08,812 |pool-7-thread-4| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-11 21:07:08,812 |pool-7-thread-4| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-11 21:07:08,812 |pool-7-thread-4| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-11 21:07:09,053 |pool-7-thread-4| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'D680D5E5-0FDB-7C0C-FF4A-0549CAF7FE00'
+
+[INFO] 2022-01-12 07:16:44,745 |pool-7-thread-5| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-12 07:16:44,749 |pool-7-thread-5| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'EC13946C-C2E9-EB36-FF9F-8FA77C8A3900'...
+
+[INFO] 2022-01-12 07:16:44,749 |pool-7-thread-5| 
+Creating schema `EC13946C-C2E9-EB36-FF9F-8FA77C8A3900`...
+
+[INFO] 2022-01-12 07:16:49,058 |pool-7-thread-5| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `EC13946C-C2E9-EB36-FF9F-8FA77C8A3900`
+
+[INFO] 2022-01-12 07:16:49,058 |pool-7-thread-5| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'EC13946C-C2E9-EB36-FF9F-8FA77C8A3900'...
+
+[INFO] 2022-01-12 07:16:49,058 |pool-7-thread-5| 
+Creating destination directories: /opt/backendless/repo/ec13946c-c2e9-eb36-ff9f-8fa77c8a3900/files
+
+[INFO] 2022-01-12 07:16:49,059 |pool-7-thread-5| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/ec13946c-c2e9-eb36-ff9f-8fa77c8a3900/files...
+
+[INFO] 2022-01-12 07:16:49,250 |pool-7-thread-5| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'EC13946C-C2E9-EB36-FF9F-8FA77C8A3900'
+
+[INFO] 2022-01-12 07:16:49,250 |pool-7-thread-5| 
+Initialize codegen for destination app 'EC13946C-C2E9-EB36-FF9F-8FA77C8A3900'
+
+[INFO] 2022-01-12 07:16:49,261 |pool-7-thread-5| 
+Finished initialize codegen for destination app 'EC13946C-C2E9-EB36-FF9F-8FA77C8A3900'
+
+[INFO] 2022-01-12 07:16:49,262 |pool-7-thread-5| 
+Cloning cache started
+
+[INFO] 2022-01-12 07:16:49,263 |pool-7-thread-5| 
+Cloning cache finished
+
+[INFO] 2022-01-12 07:16:49,263 |pool-7-thread-5| 
+Cloning counters started
+
+[INFO] 2022-01-12 07:16:49,263 |pool-7-thread-5| 
+Cloning counters finished
+
+[INFO] 2022-01-12 07:16:49,263 |pool-7-thread-5| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'EC13946C-C2E9-EB36-FF9F-8FA77C8A3900'...
+
+[INFO] 2022-01-12 07:16:49,265 |pool-7-thread-5| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'EC13946C-C2E9-EB36-FF9F-8FA77C8A3900'
+
+[INFO] 2022-01-12 07:16:49,265 |pool-7-thread-5| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'EC13946C-C2E9-EB36-FF9F-8FA77C8A3900'...
+
+[INFO] 2022-01-12 07:16:49,266 |pool-7-thread-5| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-12 07:16:49,267 |pool-7-thread-5| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-12 07:16:49,267 |pool-7-thread-5| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'EC13946C-C2E9-EB36-FF9F-8FA77C8A3900'
+
+[DEBUG] 2022-01-12 07:16:49,270 |pool-7-thread-5| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-12 07:16:49,270 |pool-7-thread-5| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-12 07:16:49,273 |pool-7-thread-5| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-12 07:16:49,273 |pool-7-thread-5| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-12 07:16:49,273 |pool-7-thread-5| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-12 07:16:49,273 |pool-7-thread-5| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-12 07:16:49,516 |pool-7-thread-5| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'EC13946C-C2E9-EB36-FF9F-8FA77C8A3900'
+
+[INFO] 2022-01-13 13:11:12,131 |pool-7-thread-33| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-13 13:11:12,135 |pool-7-thread-33| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A057A3A8-44F5-1856-FF2C-50A71AEDBC00'...
+
+[INFO] 2022-01-13 13:11:12,135 |pool-7-thread-33| 
+Creating schema `A057A3A8-44F5-1856-FF2C-50A71AEDBC00`...
+
+[INFO] 2022-01-13 13:11:16,691 |pool-7-thread-33| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `A057A3A8-44F5-1856-FF2C-50A71AEDBC00`
+
+[INFO] 2022-01-13 13:11:16,691 |pool-7-thread-33| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A057A3A8-44F5-1856-FF2C-50A71AEDBC00'...
+
+[INFO] 2022-01-13 13:11:16,691 |pool-7-thread-33| 
+Creating destination directories: /opt/backendless/repo/a057a3a8-44f5-1856-ff2c-50a71aedbc00/files
+
+[INFO] 2022-01-13 13:11:16,692 |pool-7-thread-33| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/a057a3a8-44f5-1856-ff2c-50a71aedbc00/files...
+
+[INFO] 2022-01-13 13:11:16,896 |pool-7-thread-33| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A057A3A8-44F5-1856-FF2C-50A71AEDBC00'
+
+[INFO] 2022-01-13 13:11:16,896 |pool-7-thread-33| 
+Initialize codegen for destination app 'A057A3A8-44F5-1856-FF2C-50A71AEDBC00'
+
+[INFO] 2022-01-13 13:11:16,907 |pool-7-thread-33| 
+Finished initialize codegen for destination app 'A057A3A8-44F5-1856-FF2C-50A71AEDBC00'
+
+[INFO] 2022-01-13 13:11:16,907 |pool-7-thread-33| 
+Cloning cache started
+
+[INFO] 2022-01-13 13:11:16,908 |pool-7-thread-33| 
+Cloning cache finished
+
+[INFO] 2022-01-13 13:11:16,908 |pool-7-thread-33| 
+Cloning counters started
+
+[INFO] 2022-01-13 13:11:16,909 |pool-7-thread-33| 
+Cloning counters finished
+
+[INFO] 2022-01-13 13:11:16,909 |pool-7-thread-33| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A057A3A8-44F5-1856-FF2C-50A71AEDBC00'...
+
+[INFO] 2022-01-13 13:11:16,910 |pool-7-thread-33| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A057A3A8-44F5-1856-FF2C-50A71AEDBC00'
+
+[INFO] 2022-01-13 13:11:16,910 |pool-7-thread-33| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A057A3A8-44F5-1856-FF2C-50A71AEDBC00'...
+
+[INFO] 2022-01-13 13:11:16,911 |pool-7-thread-33| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-13 13:11:16,912 |pool-7-thread-33| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-13 13:11:16,913 |pool-7-thread-33| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A057A3A8-44F5-1856-FF2C-50A71AEDBC00'
+
+[DEBUG] 2022-01-13 13:11:16,916 |pool-7-thread-33| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-13 13:11:16,916 |pool-7-thread-33| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-13 13:11:16,919 |pool-7-thread-33| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-13 13:11:16,919 |pool-7-thread-33| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-13 13:11:16,919 |pool-7-thread-33| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-13 13:11:16,919 |pool-7-thread-33| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-13 13:11:18,093 |pool-7-thread-33| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A057A3A8-44F5-1856-FF2C-50A71AEDBC00'
+
+[INFO] 2022-01-14 09:15:19,377 |pool-7-thread-38| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-14 09:15:19,379 |pool-7-thread-38| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '608C3765-B4BA-048B-FF94-4F0F61DFE300'...
+
+[INFO] 2022-01-14 09:15:19,379 |pool-7-thread-38| 
+Creating schema `608C3765-B4BA-048B-FF94-4F0F61DFE300`...
+
+[INFO] 2022-01-14 09:15:34,403 |pool-7-thread-38| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `608C3765-B4BA-048B-FF94-4F0F61DFE300`
+
+[INFO] 2022-01-14 09:15:34,403 |pool-7-thread-38| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '608C3765-B4BA-048B-FF94-4F0F61DFE300'...
+
+[INFO] 2022-01-14 09:15:34,403 |pool-7-thread-38| 
+Creating destination directories: /opt/backendless/repo/608c3765-b4ba-048b-ff94-4f0f61dfe300/files
+
+[INFO] 2022-01-14 09:15:34,404 |pool-7-thread-38| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/608c3765-b4ba-048b-ff94-4f0f61dfe300/files...
+
+[INFO] 2022-01-14 09:15:34,532 |pool-7-thread-38| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '608C3765-B4BA-048B-FF94-4F0F61DFE300'
+
+[INFO] 2022-01-14 09:15:34,532 |pool-7-thread-38| 
+Initialize codegen for destination app '608C3765-B4BA-048B-FF94-4F0F61DFE300'
+
+[INFO] 2022-01-14 09:15:34,539 |pool-7-thread-38| 
+Finished initialize codegen for destination app '608C3765-B4BA-048B-FF94-4F0F61DFE300'
+
+[INFO] 2022-01-14 09:15:34,539 |pool-7-thread-38| 
+Cloning cache started
+
+[INFO] 2022-01-14 09:15:34,539 |pool-7-thread-38| 
+Cloning cache finished
+
+[INFO] 2022-01-14 09:15:34,539 |pool-7-thread-38| 
+Cloning counters started
+
+[INFO] 2022-01-14 09:15:34,540 |pool-7-thread-38| 
+Cloning counters finished
+
+[INFO] 2022-01-14 09:15:34,540 |pool-7-thread-38| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '608C3765-B4BA-048B-FF94-4F0F61DFE300'...
+
+[INFO] 2022-01-14 09:15:34,541 |pool-7-thread-38| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '608C3765-B4BA-048B-FF94-4F0F61DFE300'
+
+[INFO] 2022-01-14 09:15:34,541 |pool-7-thread-38| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '608C3765-B4BA-048B-FF94-4F0F61DFE300'...
+
+[INFO] 2022-01-14 09:15:34,542 |pool-7-thread-38| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-14 09:15:34,543 |pool-7-thread-38| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-14 09:15:34,544 |pool-7-thread-38| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '608C3765-B4BA-048B-FF94-4F0F61DFE300'
+
+[DEBUG] 2022-01-14 09:15:34,547 |pool-7-thread-38| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-14 09:15:34,547 |pool-7-thread-38| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-14 09:15:34,550 |pool-7-thread-38| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-14 09:15:34,550 |pool-7-thread-38| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-14 09:15:34,550 |pool-7-thread-38| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-14 09:15:34,550 |pool-7-thread-38| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-14 09:15:34,795 |pool-7-thread-38| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '608C3765-B4BA-048B-FF94-4F0F61DFE300'
+
+[INFO] 2022-01-14 09:35:15,956 |pool-7-thread-13| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-14 09:35:15,957 |pool-7-thread-13| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '07340E0D-44F6-68B6-FF48-45E5DE8DE900'...
+
+[INFO] 2022-01-14 09:35:15,957 |pool-7-thread-13| 
+Creating schema `07340E0D-44F6-68B6-FF48-45E5DE8DE900`...
+
+[INFO] 2022-01-14 09:35:19,292 |pool-7-thread-13| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `07340E0D-44F6-68B6-FF48-45E5DE8DE900`
+
+[INFO] 2022-01-14 09:35:19,292 |pool-7-thread-13| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '07340E0D-44F6-68B6-FF48-45E5DE8DE900'...
+
+[INFO] 2022-01-14 09:35:19,292 |pool-7-thread-13| 
+Creating destination directories: /opt/backendless/repo/07340e0d-44f6-68b6-ff48-45e5de8de900/files
+
+[INFO] 2022-01-14 09:35:19,293 |pool-7-thread-13| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/07340e0d-44f6-68b6-ff48-45e5de8de900/files...
+
+[INFO] 2022-01-14 09:35:19,408 |pool-7-thread-13| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '07340E0D-44F6-68B6-FF48-45E5DE8DE900'
+
+[INFO] 2022-01-14 09:35:19,408 |pool-7-thread-13| 
+Initialize codegen for destination app '07340E0D-44F6-68B6-FF48-45E5DE8DE900'
+
+[INFO] 2022-01-14 09:35:19,416 |pool-7-thread-13| 
+Finished initialize codegen for destination app '07340E0D-44F6-68B6-FF48-45E5DE8DE900'
+
+[INFO] 2022-01-14 09:35:19,417 |pool-7-thread-13| 
+Cloning cache started
+
+[INFO] 2022-01-14 09:35:19,418 |pool-7-thread-13| 
+Cloning cache finished
+
+[INFO] 2022-01-14 09:35:19,418 |pool-7-thread-13| 
+Cloning counters started
+
+[INFO] 2022-01-14 09:35:19,419 |pool-7-thread-13| 
+Cloning counters finished
+
+[INFO] 2022-01-14 09:35:19,419 |pool-7-thread-13| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '07340E0D-44F6-68B6-FF48-45E5DE8DE900'...
+
+[INFO] 2022-01-14 09:35:19,420 |pool-7-thread-13| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '07340E0D-44F6-68B6-FF48-45E5DE8DE900'
+
+[INFO] 2022-01-14 09:35:19,420 |pool-7-thread-13| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '07340E0D-44F6-68B6-FF48-45E5DE8DE900'...
+
+[INFO] 2022-01-14 09:35:19,421 |pool-7-thread-13| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-14 09:35:19,422 |pool-7-thread-13| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-14 09:35:19,423 |pool-7-thread-13| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '07340E0D-44F6-68B6-FF48-45E5DE8DE900'
+
+[DEBUG] 2022-01-14 09:35:19,426 |pool-7-thread-13| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-14 09:35:19,426 |pool-7-thread-13| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-14 09:35:19,428 |pool-7-thread-13| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-14 09:35:19,428 |pool-7-thread-13| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-14 09:35:19,428 |pool-7-thread-13| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-14 09:35:19,428 |pool-7-thread-13| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-14 09:35:19,674 |pool-7-thread-13| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '07340E0D-44F6-68B6-FF48-45E5DE8DE900'
+
+[INFO] 2022-01-14 09:35:46,242 |pool-7-thread-24| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-14 09:35:46,242 |pool-7-thread-24| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A90AE24A-BEDB-275E-FF6F-72465D8A4C00'...
+
+[INFO] 2022-01-14 09:35:46,242 |pool-7-thread-24| 
+Creating schema `A90AE24A-BEDB-275E-FF6F-72465D8A4C00`...
+
+[INFO] 2022-01-14 09:35:49,646 |pool-7-thread-24| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `A90AE24A-BEDB-275E-FF6F-72465D8A4C00`
+
+[INFO] 2022-01-14 09:35:49,646 |pool-7-thread-24| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A90AE24A-BEDB-275E-FF6F-72465D8A4C00'...
+
+[INFO] 2022-01-14 09:35:49,646 |pool-7-thread-24| 
+Creating destination directories: /opt/backendless/repo/a90ae24a-bedb-275e-ff6f-72465d8a4c00/files
+
+[INFO] 2022-01-14 09:35:49,647 |pool-7-thread-24| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/a90ae24a-bedb-275e-ff6f-72465d8a4c00/files...
+
+[INFO] 2022-01-14 09:35:49,722 |pool-7-thread-24| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A90AE24A-BEDB-275E-FF6F-72465D8A4C00'
+
+[INFO] 2022-01-14 09:35:49,722 |pool-7-thread-24| 
+Initialize codegen for destination app 'A90AE24A-BEDB-275E-FF6F-72465D8A4C00'
+
+[INFO] 2022-01-14 09:35:49,733 |pool-7-thread-24| 
+Finished initialize codegen for destination app 'A90AE24A-BEDB-275E-FF6F-72465D8A4C00'
+
+[INFO] 2022-01-14 09:35:49,733 |pool-7-thread-24| 
+Cloning cache started
+
+[INFO] 2022-01-14 09:35:49,734 |pool-7-thread-24| 
+Cloning cache finished
+
+[INFO] 2022-01-14 09:35:49,734 |pool-7-thread-24| 
+Cloning counters started
+
+[INFO] 2022-01-14 09:35:49,734 |pool-7-thread-24| 
+Cloning counters finished
+
+[INFO] 2022-01-14 09:35:49,734 |pool-7-thread-24| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A90AE24A-BEDB-275E-FF6F-72465D8A4C00'...
+
+[INFO] 2022-01-14 09:35:49,736 |pool-7-thread-24| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A90AE24A-BEDB-275E-FF6F-72465D8A4C00'
+
+[INFO] 2022-01-14 09:35:49,736 |pool-7-thread-24| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A90AE24A-BEDB-275E-FF6F-72465D8A4C00'...
+
+[INFO] 2022-01-14 09:35:49,736 |pool-7-thread-24| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-14 09:35:49,737 |pool-7-thread-24| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-14 09:35:49,738 |pool-7-thread-24| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A90AE24A-BEDB-275E-FF6F-72465D8A4C00'
+
+[DEBUG] 2022-01-14 09:35:49,742 |pool-7-thread-24| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-14 09:35:49,742 |pool-7-thread-24| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-14 09:35:49,745 |pool-7-thread-24| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-14 09:35:49,745 |pool-7-thread-24| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-14 09:35:49,745 |pool-7-thread-24| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-14 09:35:49,745 |pool-7-thread-24| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-14 09:35:49,990 |pool-7-thread-24| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A90AE24A-BEDB-275E-FF6F-72465D8A4C00'
+
+[INFO] 2022-01-14 09:36:15,445 |pool-7-thread-8| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-14 09:36:15,446 |pool-7-thread-8| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A47BB054-2300-B3A0-FF34-377E4775A400'...
+
+[INFO] 2022-01-14 09:36:15,446 |pool-7-thread-8| 
+Creating schema `A47BB054-2300-B3A0-FF34-377E4775A400`...
+
+[INFO] 2022-01-14 09:36:30,168 |pool-7-thread-8| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `A47BB054-2300-B3A0-FF34-377E4775A400`
+
+[INFO] 2022-01-14 09:36:30,168 |pool-7-thread-8| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A47BB054-2300-B3A0-FF34-377E4775A400'...
+
+[INFO] 2022-01-14 09:36:30,168 |pool-7-thread-8| 
+Creating destination directories: /opt/backendless/repo/a47bb054-2300-b3a0-ff34-377e4775a400/files
+
+[INFO] 2022-01-14 09:36:30,169 |pool-7-thread-8| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/a47bb054-2300-b3a0-ff34-377e4775a400/files...
+
+[INFO] 2022-01-14 09:36:30,259 |pool-7-thread-8| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A47BB054-2300-B3A0-FF34-377E4775A400'
+
+[INFO] 2022-01-14 09:36:30,259 |pool-7-thread-8| 
+Initialize codegen for destination app 'A47BB054-2300-B3A0-FF34-377E4775A400'
+
+[INFO] 2022-01-14 09:36:30,267 |pool-7-thread-8| 
+Finished initialize codegen for destination app 'A47BB054-2300-B3A0-FF34-377E4775A400'
+
+[INFO] 2022-01-14 09:36:30,267 |pool-7-thread-8| 
+Cloning cache started
+
+[INFO] 2022-01-14 09:36:30,268 |pool-7-thread-8| 
+Cloning cache finished
+
+[INFO] 2022-01-14 09:36:30,268 |pool-7-thread-8| 
+Cloning counters started
+
+[INFO] 2022-01-14 09:36:30,268 |pool-7-thread-8| 
+Cloning counters finished
+
+[INFO] 2022-01-14 09:36:30,268 |pool-7-thread-8| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A47BB054-2300-B3A0-FF34-377E4775A400'...
+
+[INFO] 2022-01-14 09:36:30,270 |pool-7-thread-8| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A47BB054-2300-B3A0-FF34-377E4775A400'
+
+[INFO] 2022-01-14 09:36:30,270 |pool-7-thread-8| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A47BB054-2300-B3A0-FF34-377E4775A400'...
+
+[INFO] 2022-01-14 09:36:30,270 |pool-7-thread-8| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-14 09:36:30,271 |pool-7-thread-8| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-14 09:36:30,271 |pool-7-thread-8| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A47BB054-2300-B3A0-FF34-377E4775A400'
+
+[DEBUG] 2022-01-14 09:36:30,274 |pool-7-thread-8| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-14 09:36:30,274 |pool-7-thread-8| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-14 09:36:30,276 |pool-7-thread-8| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-14 09:36:30,276 |pool-7-thread-8| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-14 09:36:30,276 |pool-7-thread-8| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-14 09:36:30,276 |pool-7-thread-8| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-14 09:36:30,520 |pool-7-thread-8| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'A47BB054-2300-B3A0-FF34-377E4775A400'
+
+[INFO] 2022-01-15 23:55:17,772 |pool-7-thread-18| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-15 23:55:17,774 |pool-7-thread-18| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '29DDF32A-96E8-CC13-FFD6-1E9DF29DA000'...
+
+[INFO] 2022-01-15 23:55:17,774 |pool-7-thread-18| 
+Creating schema `29DDF32A-96E8-CC13-FFD6-1E9DF29DA000`...
+
+[INFO] 2022-01-15 23:55:22,179 |pool-7-thread-18| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `29DDF32A-96E8-CC13-FFD6-1E9DF29DA000`
+
+[INFO] 2022-01-15 23:55:22,179 |pool-7-thread-18| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '29DDF32A-96E8-CC13-FFD6-1E9DF29DA000'...
+
+[INFO] 2022-01-15 23:55:22,179 |pool-7-thread-18| 
+Creating destination directories: /opt/backendless/repo/29ddf32a-96e8-cc13-ffd6-1e9df29da000/files
+
+[INFO] 2022-01-15 23:55:22,179 |pool-7-thread-18| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/29ddf32a-96e8-cc13-ffd6-1e9df29da000/files...
+
+[INFO] 2022-01-15 23:55:22,319 |pool-7-thread-18| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '29DDF32A-96E8-CC13-FFD6-1E9DF29DA000'
+
+[INFO] 2022-01-15 23:55:22,319 |pool-7-thread-18| 
+Initialize codegen for destination app '29DDF32A-96E8-CC13-FFD6-1E9DF29DA000'
+
+[INFO] 2022-01-15 23:55:22,327 |pool-7-thread-18| 
+Finished initialize codegen for destination app '29DDF32A-96E8-CC13-FFD6-1E9DF29DA000'
+
+[INFO] 2022-01-15 23:55:22,327 |pool-7-thread-18| 
+Cloning cache started
+
+[INFO] 2022-01-15 23:55:22,328 |pool-7-thread-18| 
+Cloning cache finished
+
+[INFO] 2022-01-15 23:55:22,328 |pool-7-thread-18| 
+Cloning counters started
+
+[INFO] 2022-01-15 23:55:22,329 |pool-7-thread-18| 
+Cloning counters finished
+
+[INFO] 2022-01-15 23:55:22,329 |pool-7-thread-18| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '29DDF32A-96E8-CC13-FFD6-1E9DF29DA000'...
+
+[INFO] 2022-01-15 23:55:22,331 |pool-7-thread-18| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '29DDF32A-96E8-CC13-FFD6-1E9DF29DA000'
+
+[INFO] 2022-01-15 23:55:22,331 |pool-7-thread-18| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '29DDF32A-96E8-CC13-FFD6-1E9DF29DA000'...
+
+[INFO] 2022-01-15 23:55:22,332 |pool-7-thread-18| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-15 23:55:22,333 |pool-7-thread-18| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-15 23:55:22,333 |pool-7-thread-18| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '29DDF32A-96E8-CC13-FFD6-1E9DF29DA000'
+
+[DEBUG] 2022-01-15 23:55:22,341 |pool-7-thread-18| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-15 23:55:22,342 |pool-7-thread-18| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-15 23:55:22,346 |pool-7-thread-18| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-15 23:55:22,346 |pool-7-thread-18| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-15 23:55:22,346 |pool-7-thread-18| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-15 23:55:22,346 |pool-7-thread-18| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-15 23:55:22,595 |pool-7-thread-18| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '29DDF32A-96E8-CC13-FFD6-1E9DF29DA000'
+
+[INFO] 2022-01-18 17:56:36,188 |pool-7-thread-24| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-18 17:56:36,191 |pool-7-thread-24| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '7EAA54BC-773F-6C11-FFF0-1CF6AD7C2400'...
+
+[INFO] 2022-01-18 17:56:36,191 |pool-7-thread-24| 
+Creating schema `7EAA54BC-773F-6C11-FFF0-1CF6AD7C2400`...
+
+[INFO] 2022-01-18 17:56:39,606 |pool-7-thread-24| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `7EAA54BC-773F-6C11-FFF0-1CF6AD7C2400`
+
+[INFO] 2022-01-18 17:56:39,606 |pool-7-thread-24| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '7EAA54BC-773F-6C11-FFF0-1CF6AD7C2400'...
+
+[INFO] 2022-01-18 17:56:39,606 |pool-7-thread-24| 
+Creating destination directories: /opt/backendless/repo/7eaa54bc-773f-6c11-fff0-1cf6ad7c2400/files
+
+[INFO] 2022-01-18 17:56:39,607 |pool-7-thread-24| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/7eaa54bc-773f-6c11-fff0-1cf6ad7c2400/files...
+
+[INFO] 2022-01-18 17:56:39,810 |pool-7-thread-24| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '7EAA54BC-773F-6C11-FFF0-1CF6AD7C2400'
+
+[INFO] 2022-01-18 17:56:39,810 |pool-7-thread-24| 
+Initialize codegen for destination app '7EAA54BC-773F-6C11-FFF0-1CF6AD7C2400'
+
+[INFO] 2022-01-18 17:56:39,821 |pool-7-thread-24| 
+Finished initialize codegen for destination app '7EAA54BC-773F-6C11-FFF0-1CF6AD7C2400'
+
+[INFO] 2022-01-18 17:56:39,821 |pool-7-thread-24| 
+Cloning cache started
+
+[INFO] 2022-01-18 17:56:39,823 |pool-7-thread-24| 
+Cloning cache finished
+
+[INFO] 2022-01-18 17:56:39,823 |pool-7-thread-24| 
+Cloning counters started
+
+[INFO] 2022-01-18 17:56:39,823 |pool-7-thread-24| 
+Cloning counters finished
+
+[INFO] 2022-01-18 17:56:39,823 |pool-7-thread-24| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '7EAA54BC-773F-6C11-FFF0-1CF6AD7C2400'...
+
+[INFO] 2022-01-18 17:56:39,824 |pool-7-thread-24| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '7EAA54BC-773F-6C11-FFF0-1CF6AD7C2400'
+
+[INFO] 2022-01-18 17:56:39,825 |pool-7-thread-24| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '7EAA54BC-773F-6C11-FFF0-1CF6AD7C2400'...
+
+[INFO] 2022-01-18 17:56:39,826 |pool-7-thread-24| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-18 17:56:39,827 |pool-7-thread-24| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-18 17:56:39,827 |pool-7-thread-24| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '7EAA54BC-773F-6C11-FFF0-1CF6AD7C2400'
+
+[DEBUG] 2022-01-18 17:56:39,830 |pool-7-thread-24| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-18 17:56:39,830 |pool-7-thread-24| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-18 17:56:39,832 |pool-7-thread-24| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-18 17:56:39,832 |pool-7-thread-24| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-18 17:56:39,832 |pool-7-thread-24| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-18 17:56:39,832 |pool-7-thread-24| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-18 17:56:40,080 |pool-7-thread-24| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '7EAA54BC-773F-6C11-FFF0-1CF6AD7C2400'
+
+[INFO] 2022-01-25 07:48:07,458 |pool-7-thread-6| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-25 07:48:07,462 |pool-7-thread-6| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CF4F1F95-2078-8986-FFD0-F9E4D01D3F00'...
+
+[INFO] 2022-01-25 07:48:07,462 |pool-7-thread-6| 
+Creating schema `CF4F1F95-2078-8986-FFD0-F9E4D01D3F00`...
+
+[INFO] 2022-01-25 07:48:10,860 |pool-7-thread-6| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `CF4F1F95-2078-8986-FFD0-F9E4D01D3F00`
+
+[INFO] 2022-01-25 07:48:10,860 |pool-7-thread-6| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CF4F1F95-2078-8986-FFD0-F9E4D01D3F00'...
+
+[INFO] 2022-01-25 07:48:10,860 |pool-7-thread-6| 
+Creating destination directories: /opt/backendless/repo/cf4f1f95-2078-8986-ffd0-f9e4d01d3f00/files
+
+[INFO] 2022-01-25 07:48:10,861 |pool-7-thread-6| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/cf4f1f95-2078-8986-ffd0-f9e4d01d3f00/files...
+
+[INFO] 2022-01-25 07:48:11,094 |pool-7-thread-6| 
+Finished cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CF4F1F95-2078-8986-FFD0-F9E4D01D3F00'
+
+[INFO] 2022-01-25 07:48:11,095 |pool-7-thread-6| 
+Initialize codegen for destination app 'CF4F1F95-2078-8986-FFD0-F9E4D01D3F00'
+
+[INFO] 2022-01-25 07:48:11,108 |pool-7-thread-6| 
+Finished initialize codegen for destination app 'CF4F1F95-2078-8986-FFD0-F9E4D01D3F00'
+
+[INFO] 2022-01-25 07:48:11,108 |pool-7-thread-6| 
+Cloning cache started
+
+[INFO] 2022-01-25 07:48:11,110 |pool-7-thread-6| 
+Cloning cache finished
+
+[INFO] 2022-01-25 07:48:11,110 |pool-7-thread-6| 
+Cloning counters started
+
+[INFO] 2022-01-25 07:48:11,110 |pool-7-thread-6| 
+Cloning counters finished
+
+[INFO] 2022-01-25 07:48:11,110 |pool-7-thread-6| 
+Cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CF4F1F95-2078-8986-FFD0-F9E4D01D3F00'...
+
+[INFO] 2022-01-25 07:48:11,111 |pool-7-thread-6| 
+Finished cloning mobile settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CF4F1F95-2078-8986-FFD0-F9E4D01D3F00'
+
+[INFO] 2022-01-25 07:48:11,111 |pool-7-thread-6| 
+Cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CF4F1F95-2078-8986-FFD0-F9E4D01D3F00'...
+
+[INFO] 2022-01-25 07:48:11,112 |pool-7-thread-6| 
+Dynamic schema definition for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-25 07:48:11,114 |pool-7-thread-6| 
+Mode 'Include object ID by Default' for app 'C2390894-956B-4A30-9D1E-920825A6EC04' is enabled
+
+[INFO] 2022-01-25 07:48:11,114 |pool-7-thread-6| 
+Finished cloning application settings from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CF4F1F95-2078-8986-FFD0-F9E4D01D3F00'
+
+[DEBUG] 2022-01-25 07:48:11,122 |pool-7-thread-6| 
+Original app character set: utf8mb4
+
+[DEBUG] 2022-01-25 07:48:11,122 |pool-7-thread-6| 
+Original app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-25 07:48:11,129 |pool-7-thread-6| 
+Cloned app character set: utf8mb4
+
+[DEBUG] 2022-01-25 07:48:11,129 |pool-7-thread-6| 
+Cloned app collation: utf8mb4_unicode_520_ci
+
+[DEBUG] 2022-01-25 07:48:11,129 |pool-7-thread-6| 
+Charset and collation are the same, no need to modify schema
+
+[INFO] 2022-01-25 07:48:11,129 |pool-7-thread-6| 
+Blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' was cloned
+
+[INFO] 2022-01-25 07:48:11,402 |pool-7-thread-6| 
+Finished cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app 'CF4F1F95-2078-8986-FFD0-F9E4D01D3F00'
+
+[INFO] 2022-01-27 22:34:29,512 |pool-7-thread-13| 
+Cloning blueprint app 'C2390894-956B-4A30-9D1E-920825A6EC04'
+
+[INFO] 2022-01-27 22:34:29,619 |pool-7-thread-13| 
+Cloning database from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '2338D9E8-6A00-A259-FF96-7507DF32AB00'...
+
+[INFO] 2022-01-27 22:34:29,619 |pool-7-thread-13| 
+Creating schema `2338D9E8-6A00-A259-FF96-7507DF32AB00`...
+
+[INFO] 2022-01-27 22:34:32,731 |pool-7-thread-13| 
+Finished cloning database `C2390894-956B-4A30-9D1E-920825A6EC04` to `2338D9E8-6A00-A259-FF96-7507DF32AB00`
+
+[INFO] 2022-01-27 22:34:32,732 |pool-7-thread-13| 
+Cloning repository from app 'C2390894-956B-4A30-9D1E-920825A6EC04' to app '2338D9E8-6A00-A259-FF96-7507DF32AB00'...
+
+[INFO] 2022-01-27 22:34:32,732 |pool-7-thread-13| 
+Creating destination directories: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files
+
+[INFO] 2022-01-27 22:34:32,733 |pool-7-thread-13| 
+Copying /opt/backendless/repo/c2390894-956b-4a30-9d1e-920825a6ec04/files to /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files...
+

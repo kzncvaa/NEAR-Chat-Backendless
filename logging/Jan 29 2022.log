@@ -1,0 +1,164 @@
+2022-01-29 12:38:04,119 | SERVER_CODE |  INFO | [15571] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 12:38:04,121 | SERVER_CODE |  INFO | [15571] Building Model..
+2022-01-29 12:38:04,209 | SERVER_CODE |  INFO | [15571] ServerCode Model built in 88ms
+2022-01-29 12:38:04,209 | SERVER_CODE |  INFO | [15571] Services (1):
+2022-01-29 12:38:04,209 | SERVER_CODE |  INFO | [15571]   NEAR (services/NEAR/index.js)
+2022-01-29 12:38:04,211 | SERVER_CODE |  INFO | [15571] Processing finished in 100.620ms
+2022-01-29 12:38:04,724 | SERVER_CODE |  INFO | [14702] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 12:38:04,726 | SERVER_CODE |  INFO | [14702] Building Model..
+2022-01-29 12:38:04,812 | SERVER_CODE |  INFO | [14702] ServerCode Model built in 86ms
+2022-01-29 12:38:04,812 | SERVER_CODE |  INFO | [14702] Services (1):
+2022-01-29 12:38:04,812 | SERVER_CODE |  INFO | [14702]   NEAR (services/NEAR/index.js)
+2022-01-29 12:38:04,814 | SERVER_CODE |  INFO | [14702] Processing finished in 98.773ms
+2022-01-29 12:42:53,644 | SERVER_CODE |  INFO | [15340] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 12:42:53,645 | SERVER_CODE |  INFO | [15340] Building Model..
+2022-01-29 12:42:53,753 | SERVER_CODE |  INFO | [15340] ServerCode Model built in 108ms
+2022-01-29 12:42:53,753 | SERVER_CODE |  INFO | [15340] Services (1):
+2022-01-29 12:42:53,753 | SERVER_CODE |  INFO | [15340]   NEAR (services/NEAR/index.js)
+2022-01-29 12:42:53,755 | SERVER_CODE |  INFO | [15340] Processing finished in 119.503ms
+2022-01-29 12:42:54,375 | SERVER_CODE |  INFO | [15714] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 12:42:54,377 | SERVER_CODE |  INFO | [15714] Building Model..
+2022-01-29 12:42:54,476 | SERVER_CODE |  INFO | [15714] ServerCode Model built in 99ms
+2022-01-29 12:42:54,476 | SERVER_CODE |  INFO | [15714] Services (1):
+2022-01-29 12:42:54,476 | SERVER_CODE |  INFO | [15714]   NEAR (services/NEAR/index.js)
+2022-01-29 12:42:54,479 | SERVER_CODE |  INFO | [15714] Processing finished in 113.604ms
+2022-01-29 12:49:54,110 | SERVER_CODE |  INFO | [16268] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 12:49:54,112 | SERVER_CODE |  INFO | [16268] Building Model..
+2022-01-29 12:49:54,197 | SERVER_CODE |  INFO | [16268] ServerCode Model built in 85ms
+2022-01-29 12:49:54,197 | SERVER_CODE |  INFO | [16268] Services (1):
+2022-01-29 12:49:54,197 | SERVER_CODE |  INFO | [16268]   NEAR (services/NEAR/index.js)
+2022-01-29 12:49:54,199 | SERVER_CODE |  INFO | [16268] Processing finished in 96.524ms
+2022-01-29 12:49:54,712 | SERVER_CODE |  INFO | [15890] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 12:49:54,714 | SERVER_CODE |  INFO | [15890] Building Model..
+2022-01-29 12:49:54,799 | SERVER_CODE |  INFO | [15890] ServerCode Model built in 85ms
+2022-01-29 12:49:54,799 | SERVER_CODE |  INFO | [15890] Services (1):
+2022-01-29 12:49:54,799 | SERVER_CODE |  INFO | [15890]   NEAR (services/NEAR/index.js)
+2022-01-29 12:49:54,801 | SERVER_CODE |  INFO | [15890] Processing finished in 96.228ms
+2022-01-29 12:51:12,950 | SERVER_CODE |  INFO | [16345] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 12:51:12,952 | SERVER_CODE |  INFO | [16345] Building Model..
+2022-01-29 12:51:13,050 | SERVER_CODE |  INFO | [16345] ServerCode Model built in 98ms
+2022-01-29 12:51:13,050 | SERVER_CODE |  INFO | [16345] Services (1):
+2022-01-29 12:51:13,050 | SERVER_CODE |  INFO | [16345]   NEAR (services/NEAR/index.js)
+2022-01-29 12:51:13,052 | SERVER_CODE |  INFO | [16345] Processing finished in 110.302ms
+2022-01-29 12:51:13,664 | SERVER_CODE |  INFO | [16891] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 12:51:13,666 | SERVER_CODE |  INFO | [16891] Building Model..
+2022-01-29 12:51:13,768 | SERVER_CODE |  INFO | [16891] ServerCode Model built in 102ms
+2022-01-29 12:51:13,768 | SERVER_CODE |  INFO | [16891] Services (1):
+2022-01-29 12:51:13,768 | SERVER_CODE |  INFO | [16891]   NEAR (services/NEAR/index.js)
+2022-01-29 12:51:13,770 | SERVER_CODE |  INFO | [16891] Processing finished in 113.159ms
+2022-01-29 12:57:53,507 | SERVER_CODE |  INFO | [16763] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 12:57:53,509 | SERVER_CODE |  INFO | [16763] Building Model..
+2022-01-29 12:57:53,612 | SERVER_CODE |  INFO | [16763] ServerCode Model built in 103ms
+2022-01-29 12:57:53,613 | SERVER_CODE |  INFO | [16763] Services (1):
+2022-01-29 12:57:53,613 | SERVER_CODE |  INFO | [16763]   NEAR (services/NEAR/index.js)
+2022-01-29 12:57:53,615 | SERVER_CODE |  INFO | [16763] Processing finished in 115.431ms
+2022-01-29 12:57:54,130 | SERVER_CODE |  INFO | [16374] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 12:57:54,132 | SERVER_CODE |  INFO | [16374] Building Model..
+2022-01-29 12:57:54,234 | SERVER_CODE |  INFO | [16374] ServerCode Model built in 102ms
+2022-01-29 12:57:54,234 | SERVER_CODE |  INFO | [16374] Services (1):
+2022-01-29 12:57:54,234 | SERVER_CODE |  INFO | [16374]   NEAR (services/NEAR/index.js)
+2022-01-29 12:57:54,237 | SERVER_CODE |  INFO | [16374] Processing finished in 115.984ms
+2022-01-29 12:59:04,827 | SERVER_CODE |  INFO | [16440] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-29 12:59:04,829 | SERVER_CODE |  INFO | [16440] ServerCode Model built in 6ms
+2022-01-29 12:59:04,833 | SERVER_CODE |  INFO | [16440] [714480A8-FECA-2649-FF2D-EBD38A239A00] [INVOKE SERVICE] services.NEAR.Login
+2022-01-29 12:59:05,576 | SERVER_CODE |  INFO | [16440] Processing finished in 759.306ms
+2022-01-29 13:06:44,689 | SERVER_CODE |  INFO | [16902] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:06:44,691 | SERVER_CODE |  INFO | [16902] Building Model..
+2022-01-29 13:06:44,777 | SERVER_CODE |  INFO | [16902] ServerCode Model built in 86ms
+2022-01-29 13:06:44,777 | SERVER_CODE |  INFO | [16902] Services (1):
+2022-01-29 13:06:44,777 | SERVER_CODE |  INFO | [16902]   NEAR (services/NEAR/index.js)
+2022-01-29 13:06:44,779 | SERVER_CODE |  INFO | [16902] Processing finished in 96.277ms
+2022-01-29 13:06:45,398 | SERVER_CODE |  INFO | [17837] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:06:45,400 | SERVER_CODE |  INFO | [17837] Building Model..
+2022-01-29 13:06:45,484 | SERVER_CODE |  INFO | [17837] ServerCode Model built in 85ms
+2022-01-29 13:06:45,484 | SERVER_CODE |  INFO | [17837] Services (1):
+2022-01-29 13:06:45,484 | SERVER_CODE |  INFO | [17837]   NEAR (services/NEAR/index.js)
+2022-01-29 13:06:45,486 | SERVER_CODE |  INFO | [17837] Processing finished in 95.781ms
+2022-01-29 13:13:42,568 | SERVER_CODE |  INFO | [18299] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:13:42,570 | SERVER_CODE |  INFO | [18299] Building Model..
+2022-01-29 13:13:42,656 | SERVER_CODE |  INFO | [18299] ServerCode Model built in 86ms
+2022-01-29 13:13:42,657 | SERVER_CODE |  INFO | [18299] Services (1):
+2022-01-29 13:13:42,657 | SERVER_CODE |  INFO | [18299]   NEAR (services/NEAR/index.js)
+2022-01-29 13:13:42,658 | SERVER_CODE |  INFO | [18299] Processing finished in 98.199ms
+2022-01-29 13:13:43,174 | SERVER_CODE |  INFO | [17364] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:13:43,176 | SERVER_CODE |  INFO | [17364] Building Model..
+2022-01-29 13:13:43,260 | SERVER_CODE |  INFO | [17364] ServerCode Model built in 84ms
+2022-01-29 13:13:43,261 | SERVER_CODE |  INFO | [17364] Services (1):
+2022-01-29 13:13:43,261 | SERVER_CODE |  INFO | [17364]   NEAR (services/NEAR/index.js)
+2022-01-29 13:13:43,263 | SERVER_CODE |  INFO | [17364] Processing finished in 96.624ms
+2022-01-29 13:15:58,420 | SERVER_CODE |  INFO | [18453] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:15:58,422 | SERVER_CODE |  INFO | [18453] Building Model..
+2022-01-29 13:15:58,518 | SERVER_CODE |  INFO | [18453] ServerCode Model built in 96ms
+2022-01-29 13:15:58,518 | SERVER_CODE |  INFO | [18453] Services (1):
+2022-01-29 13:15:58,518 | SERVER_CODE |  INFO | [18453]   NEAR (services/NEAR/index.js)
+2022-01-29 13:15:58,520 | SERVER_CODE |  INFO | [18453] Processing finished in 107.430ms
+2022-01-29 13:15:59,140 | SERVER_CODE |  INFO | [17518] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:15:59,142 | SERVER_CODE |  INFO | [17518] Building Model..
+2022-01-29 13:15:59,239 | SERVER_CODE |  INFO | [17518] ServerCode Model built in 97ms
+2022-01-29 13:15:59,239 | SERVER_CODE |  INFO | [17518] Services (1):
+2022-01-29 13:15:59,239 | SERVER_CODE |  INFO | [17518]   NEAR (services/NEAR/index.js)
+2022-01-29 13:15:59,241 | SERVER_CODE |  INFO | [17518] Processing finished in 108.285ms
+2022-01-29 13:20:15,646 | SERVER_CODE |  INFO | [18673] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:20:15,648 | SERVER_CODE |  INFO | [18673] Building Model..
+2022-01-29 13:20:15,743 | SERVER_CODE |  INFO | [18673] ServerCode Model built in 95ms
+2022-01-29 13:20:15,743 | SERVER_CODE |  INFO | [18673] Services (1):
+2022-01-29 13:20:15,743 | SERVER_CODE |  INFO | [18673]   NEAR (services/NEAR/index.js)
+2022-01-29 13:20:15,745 | SERVER_CODE |  INFO | [18673] Processing finished in 106.494ms
+2022-01-29 13:20:16,278 | SERVER_CODE |  INFO | [18127] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:20:16,279 | SERVER_CODE |  INFO | [18127] Building Model..
+2022-01-29 13:20:16,384 | SERVER_CODE |  INFO | [18127] ServerCode Model built in 105ms
+2022-01-29 13:20:16,384 | SERVER_CODE |  INFO | [18127] Services (1):
+2022-01-29 13:20:16,384 | SERVER_CODE |  INFO | [18127]   NEAR (services/NEAR/index.js)
+2022-01-29 13:20:16,387 | SERVER_CODE |  INFO | [18127] Processing finished in 120.295ms
+2022-01-29 13:20:59,463 | SERVER_CODE |  INFO | [18171] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-29 13:20:59,465 | SERVER_CODE |  INFO | [18171] ServerCode Model built in 5ms
+2022-01-29 13:20:59,468 | SERVER_CODE |  INFO | [18171] [0AC0058B-B13B-E9B6-FF7A-657092D75900] [INVOKE SERVICE] services.NEAR.Login
+2022-01-29 13:20:59,698 | SERVER_CODE |  INFO | [18171] Processing finished in 244.307ms
+2022-01-29 13:25:13,562 | SERVER_CODE |  INFO | [18970] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-29 13:25:13,564 | SERVER_CODE |  INFO | [18970] ServerCode Model built in 5ms
+2022-01-29 13:25:13,568 | SERVER_CODE |  INFO | [18970] [57A092EA-2ACE-C377-FF39-203E27B24000] [INVOKE SERVICE] services.NEAR.Login
+2022-01-29 13:25:13,768 | SERVER_CODE |  INFO | [18970] Processing finished in 215.101ms
+2022-01-29 13:26:05,834 | SERVER_CODE |  INFO | [18468] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-29 13:26:05,836 | SERVER_CODE |  INFO | [18468] ServerCode Model built in 5ms
+2022-01-29 13:26:05,838 | SERVER_CODE |  INFO | [18468] [681B768B-52BB-EABE-FF79-CE1AC887CC00] [INVOKE SERVICE] services.NEAR.Login
+2022-01-29 13:26:06,415 | SERVER_CODE |  INFO | [18468] Processing finished in 590.397ms
+2022-01-29 13:43:53,399 | SERVER_CODE |  INFO | [19436] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:43:53,401 | SERVER_CODE |  INFO | [19436] Building Model..
+2022-01-29 13:43:53,487 | SERVER_CODE |  INFO | [19436] ServerCode Model built in 86ms
+2022-01-29 13:43:53,487 | SERVER_CODE |  INFO | [19436] Services (1):
+2022-01-29 13:43:53,487 | SERVER_CODE |  INFO | [19436]   NEAR (services/NEAR/index.js)
+2022-01-29 13:43:53,489 | SERVER_CODE |  INFO | [19436] Processing finished in 97.316ms
+2022-01-29 13:43:54,002 | SERVER_CODE |  INFO | [19993] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:43:54,004 | SERVER_CODE |  INFO | [19993] Building Model..
+2022-01-29 13:43:54,090 | SERVER_CODE |  INFO | [19993] ServerCode Model built in 86ms
+2022-01-29 13:43:54,090 | SERVER_CODE |  INFO | [19993] Services (1):
+2022-01-29 13:43:54,090 | SERVER_CODE |  INFO | [19993]   NEAR (services/NEAR/index.js)
+2022-01-29 13:43:54,092 | SERVER_CODE |  INFO | [19993] Processing finished in 98.120ms
+2022-01-29 13:45:18,313 | SERVER_CODE |  INFO | [20070] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:45:18,314 | SERVER_CODE |  INFO | [20070] Building Model..
+2022-01-29 13:45:18,409 | SERVER_CODE |  INFO | [20070] ServerCode Model built in 95ms
+2022-01-29 13:45:18,409 | SERVER_CODE |  INFO | [20070] Services (1):
+2022-01-29 13:45:18,409 | SERVER_CODE |  INFO | [20070]   NEAR (services/NEAR/index.js)
+2022-01-29 13:45:18,411 | SERVER_CODE |  INFO | [20070] Processing finished in 106.275ms
+2022-01-29 13:45:18,927 | SERVER_CODE |  INFO | [19524] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:45:18,928 | SERVER_CODE |  INFO | [19524] Building Model..
+2022-01-29 13:45:19,032 | SERVER_CODE |  INFO | [19524] ServerCode Model built in 104ms
+2022-01-29 13:45:19,032 | SERVER_CODE |  INFO | [19524] Services (1):
+2022-01-29 13:45:19,033 | SERVER_CODE |  INFO | [19524]   NEAR (services/NEAR/index.js)
+2022-01-29 13:45:19,034 | SERVER_CODE |  INFO | [19524] Processing finished in 117.080ms
+2022-01-29 13:48:42,062 | SERVER_CODE |  INFO | [20279] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:48:42,064 | SERVER_CODE |  INFO | [20279] Building Model..
+2022-01-29 13:48:42,170 | SERVER_CODE |  INFO | [20279] ServerCode Model built in 106ms
+2022-01-29 13:48:42,170 | SERVER_CODE |  INFO | [20279] Services (1):
+2022-01-29 13:48:42,170 | SERVER_CODE |  INFO | [20279]   NEAR (services/NEAR/index.js)
+2022-01-29 13:48:42,172 | SERVER_CODE |  INFO | [20279] Processing finished in 117.608ms
+2022-01-29 13:48:42,695 | SERVER_CODE |  INFO | [19733] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:48:42,696 | SERVER_CODE |  INFO | [19733] Building Model..
+2022-01-29 13:48:42,800 | SERVER_CODE |  INFO | [19733] ServerCode Model built in 104ms
+2022-01-29 13:48:42,800 | SERVER_CODE |  INFO | [19733] Services (1):
+2022-01-29 13:48:42,800 | SERVER_CODE |  INFO | [19733]   NEAR (services/NEAR/index.js)
+2022-01-29 13:48:42,803 | SERVER_CODE |  INFO | [19733] Processing finished in 123.488ms
+2022-01-29 13:50:03,951 | SERVER_CODE |  INFO | [19421] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-29 13:50:03,952 | SERVER_CODE |  INFO | [19421] Building Model..
+2022-01-29 13:50:04,066 | SERVER_CODE |  INFO | [19421] ServerCode Model built in 114ms
+2022-01-29 13:50:04,066 | S

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+    <meta charset="UTF-8">
+    <title>NEAR</title>
+</head>
+<body>
+
+<script type="text/javascript" src="https://api.backendless.com/sdk/js/latest/backendless.min.js"></script>
+<script type="text/javascript">
+  const appId = '2338D9E8-6A00-A259-FF96-7507DF32AB00';
+  const apiKey = '28AA871F-458B-44A2-A073-57C16FA83E21';
+  const serverURL = 'https://eu-api.backendless.com';
+
+  Backendless.serverURL = serverURL;
+  Backendless.initApp(appId, apiKey);
+</script>
+
+
+<script type="text/javascript" src="./js/services/getInfoByTransaction_ResultObject.js" ></script>
+            
+<script type="text/javascript" src="./js/services/NEAR.js" ></script>
+            
+<p>You can invoke methods of your service like:<p>
+    Backendless.NEAR.{{MethodName}}({{method arguments}});
+</body>
+</html>
+

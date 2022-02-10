@@ -1,0 +1,17 @@
+{
+  "name": "loadCurrentUser",
+  "id": "71c90b7681f2c8b9eb72624de9567aa7",
+  "filePath": "/custom/functions/71c90b7681f2c8b9eb72624de9567aa7/code.js",
+  "inputs": [
+    {
+      "label": "appData",
+      "name": "appData"
+    }
+  ],
+  "hasReturn": false,
+  "dependencies": [
+    "/custom/functions/c4e97af1f13356084877663da10b7363/code.js"
+  ],
+  "tooltip": null,
+  "helpUrl": null
+}

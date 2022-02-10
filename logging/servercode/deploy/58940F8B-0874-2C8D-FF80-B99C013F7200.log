@@ -1,0 +1,22 @@
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Check if another code deploy in process","date":1643614376297,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Stop timers for model 'NEAR' for PRODUCTION mode","date":1643614376298,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Check if another deploy process in progress","date":1643614376301,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Got lock for deploy process","date":1643614376302,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Inspecting code on coderunner...","date":1643614376302,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Code inspected in 143 ms.","date":1643614376445,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Check limits","date":1643614376445,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Remove PRODUCTION deployment model 'NEAR'","date":1643614376457,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Removed PRODUCTION deployment model 'NEAR'","date":1643614376461,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Parsing model from coderunner, creating event, timers and services in DB","date":1643614376461,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Parsed model in 42 ms","date":1643614376503,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Remove all old services from DB","date":1643614376505,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Production path to tmp folder /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION.old.-1358097861","date":1643614376507,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Coping code to production folder","date":1643614376508,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Copied code to production folder","date":1643614376520,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Starting file cleanup operations","date":1643614376520,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Waiting for cleanup old logic","date":1643614376520,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Deleting old production folder","date":1643614376520,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Lock released","date":1643614376524,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Removed cache","date":1643614376525,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Star timer for PRODUCTION","date":1643614376525,"level":"INFO"}
+{"requestId":"58940F8B-0874-2C8D-FF80-B99C013F7200","message":"Deploy finished.","date":1643614376528,"level":"INFO"}

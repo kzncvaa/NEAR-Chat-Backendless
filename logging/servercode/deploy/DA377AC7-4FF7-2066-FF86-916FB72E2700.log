@@ -1,0 +1,21 @@
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Check if another code deploy in process","date":1644320329838,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Check if another deploy process in progress","date":1644320329876,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Got lock for deploy process","date":1644320329876,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Inspecting code on coderunner...","date":1644320329876,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Code inspected in 40 ms.","date":1644320329916,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Check limits","date":1644320329916,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Remove PRODUCTION deployment model 'NEAR'","date":1644320329933,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Removed PRODUCTION deployment model 'NEAR'","date":1644320329938,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Parsing model from coderunner, creating event, timers and services in DB","date":1644320329938,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Parsed model in 7 ms","date":1644320329945,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Remove all old services from DB","date":1644320329947,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Moved code to production directory","date":1644320329949,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Starting file cleanup operations","date":1644320329949,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Deleting draft folder","date":1644320329949,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Coping production folder to draft","date":1644320329949,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Removed cache","date":1644320329950,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Deleting tmp code folder","date":1644320329951,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Deploy finished.","date":1644320329951,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Deleting xml and json files for services","date":1644320329981,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Deleting old production folder","date":1644320329981,"level":"INFO"}
+{"requestId":"DA377AC7-4FF7-2066-FF86-916FB72E2700","message":"Lock released","date":1644320329981,"level":"INFO"}

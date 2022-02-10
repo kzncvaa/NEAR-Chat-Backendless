@@ -1,0 +1,539 @@
+2022-01-31 07:28:52,234 | SERVER_CODE |  INFO | [560] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 07:28:52,235 | SERVER_CODE |  INFO | [560] Building Model..
+2022-01-31 07:28:52,344 | SERVER_CODE |  INFO | [560] ServerCode Model built in 109ms
+2022-01-31 07:28:52,345 | SERVER_CODE |  INFO | [560] Services (1):
+2022-01-31 07:28:52,345 | SERVER_CODE |  INFO | [560]   NEAR (services/NEAR/index.js)
+2022-01-31 07:28:52,348 | SERVER_CODE |  INFO | [560] Processing finished in 122.454ms
+2022-01-31 07:28:52,958 | SERVER_CODE |  INFO | [1368] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 07:28:52,959 | SERVER_CODE |  INFO | [1368] Building Model..
+2022-01-31 07:28:53,072 | SERVER_CODE |  INFO | [1368] ServerCode Model built in 113ms
+2022-01-31 07:28:53,072 | SERVER_CODE |  INFO | [1368] Services (1):
+2022-01-31 07:28:53,072 | SERVER_CODE |  INFO | [1368]   NEAR (services/NEAR/index.js)
+2022-01-31 07:28:53,075 | SERVER_CODE |  INFO | [1368] Processing finished in 125.024ms
+2022-01-31 07:32:55,684 | SERVER_CODE |  INFO | [802] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 07:32:55,685 | SERVER_CODE |  INFO | [802] Building Model..
+2022-01-31 07:32:55,801 | SERVER_CODE |  INFO | [802] ServerCode Model built in 116ms
+2022-01-31 07:32:55,802 | SERVER_CODE |  INFO | [802] Services (1):
+2022-01-31 07:32:55,802 | SERVER_CODE |  INFO | [802]   NEAR (services/NEAR/index.js)
+2022-01-31 07:32:55,805 | SERVER_CODE |  INFO | [802] Processing finished in 128.812ms
+2022-01-31 07:32:56,318 | SERVER_CODE |  INFO | [32307] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 07:32:56,319 | SERVER_CODE |  INFO | [32307] Building Model..
+2022-01-31 07:32:56,439 | SERVER_CODE |  INFO | [32307] ServerCode Model built in 120ms
+2022-01-31 07:32:56,439 | SERVER_CODE |  INFO | [32307] Services (1):
+2022-01-31 07:32:56,440 | SERVER_CODE |  INFO | [32307]   NEAR (services/NEAR/index.js)
+2022-01-31 07:32:56,442 | SERVER_CODE |  INFO | [32307] Processing finished in 132.135ms
+2022-01-31 07:33:23,080 | SERVER_CODE |  INFO | [824] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 07:33:23,082 | SERVER_CODE |  INFO | [824] ServerCode Model built in 6ms
+2022-01-31 07:33:23,087 | SERVER_CODE |  INFO | [824] [B6890C0E-365F-306D-FF79-AD23850F0100] [INVOKE SERVICE] services.NEAR.getPrivateKey
+2022-01-31 07:33:23,765 | SERVER_CODE |  INFO | [824] Processing finished in 695.365ms
+2022-01-31 07:36:11,285 | SERVER_CODE |  INFO | [1786] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 07:36:11,287 | SERVER_CODE |  INFO | [1786] ServerCode Model built in 5ms
+2022-01-31 07:36:11,290 | SERVER_CODE |  INFO | [1786] [9F57D049-E230-16CA-FFCF-32AB617BC200] [INVOKE SERVICE] services.NEAR.Login
+2022-01-31 07:36:11,487 | SERVER_CODE |  INFO | [1786] Processing finished in 212.444ms
+2022-01-31 07:36:29,165 | SERVER_CODE |  INFO | [1797] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 07:36:29,166 | SERVER_CODE |  INFO | [1797] ServerCode Model built in 4ms
+2022-01-31 07:36:29,168 | SERVER_CODE |  INFO | [1797] [A2CED86A-27D6-11ED-FF0A-DDA2E7694500] [INVOKE SERVICE] services.NEAR.getInfoByTransaction
+2022-01-31 07:36:29,587 | SERVER_CODE |  INFO | [1797] Processing finished in 430.797ms
+2022-01-31 07:36:32,831 | SERVER_CODE |  INFO | [989] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 07:36:32,832 | SERVER_CODE |  INFO | [989] ServerCode Model built in 4ms
+2022-01-31 07:36:32,835 | SERVER_CODE |  INFO | [989] [BC0A5959-71D2-745A-FFB3-FF8F9FB35600] [INVOKE SERVICE] services.NEAR.getInfoByTransaction
+2022-01-31 07:36:32,900 | SERVER_CODE |  INFO | [989] Processing finished in 83.497ms
+2022-01-31 07:40:10,157 | SERVER_CODE |  INFO | [32736] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 07:40:10,159 | SERVER_CODE |  INFO | [32736] ServerCode Model built in 5ms
+2022-01-31 07:40:10,163 | SERVER_CODE |  INFO | [32736] [67FF2BCD-E105-B8B2-FF34-176D34FE1200] [INVOKE SERVICE] services.NEAR.Login
+2022-01-31 07:40:10,448 | SERVER_CODE |  INFO | [32736] Processing finished in 300.070ms
+2022-01-31 07:40:37,743 | SERVER_CODE |  INFO | [2083] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 07:40:37,744 | SERVER_CODE |  INFO | [2083] ServerCode Model built in 4ms
+2022-01-31 07:40:37,747 | SERVER_CODE |  INFO | [2083] [69BE1890-73F5-3F65-FF2C-68569F4A4000] [INVOKE SERVICE] services.NEAR.getInfoByTransaction
+2022-01-31 07:40:37,804 | SERVER_CODE |  INFO | [2083] Processing finished in 69.862ms
+2022-01-31 07:40:38,167 | SERVER_CODE |  INFO | [1275] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 07:40:38,168 | SERVER_CODE |  INFO | [1275] ServerCode Model built in 5ms
+2022-01-31 07:40:38,171 | SERVER_CODE |  INFO | [1275] [9521A574-B600-31E7-FFC2-A1BB6A509700] [INVOKE SERVICE] services.NEAR.getPrivateKey
+2022-01-31 07:40:38,446 | SERVER_CODE |  INFO | [1275] Processing finished in 288.027ms
+2022-01-31 07:49:40,049 | SERVER_CODE |  INFO | [1704] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 07:49:40,051 | SERVER_CODE |  INFO | [1704] Building Model..
+2022-01-31 07:49:40,166 | SERVER_CODE |  INFO | [1704] ServerCode Model built in 115ms
+2022-01-31 07:49:40,166 | SERVER_CODE |  INFO | [1704] Services (1):
+2022-01-31 07:49:40,166 | SERVER_CODE |  INFO | [1704]   NEAR (services/NEAR/index.js)
+2022-01-31 07:49:40,168 | SERVER_CODE |  INFO | [1704] Processing finished in 126.932ms
+2022-01-31 07:49:40,682 | SERVER_CODE |  INFO | [2523] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 07:49:40,684 | SERVER_CODE |  INFO | [2523] Building Model..
+2022-01-31 07:49:40,791 | SERVER_CODE |  INFO | [2523] ServerCode Model built in 107ms
+2022-01-31 07:49:40,791 | SERVER_CODE |  INFO | [2523] Services (1):
+2022-01-31 07:49:40,791 | SERVER_CODE |  INFO | [2523]   NEAR (services/NEAR/index.js)
+2022-01-31 07:49:40,793 | SERVER_CODE |  INFO | [2523] Processing finished in 119.084ms
+2022-01-31 07:52:09,336 | SERVER_CODE |  INFO | [2655] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 07:52:09,338 | SERVER_CODE |  INFO | [2655] Building Model..
+2022-01-31 07:52:09,455 | SERVER_CODE |  INFO | [2655] ServerCode Model built in 117ms
+2022-01-31 07:52:09,455 | SERVER_CODE |  INFO | [2655] Services (1):
+2022-01-31 07:52:09,455 | SERVER_CODE |  INFO | [2655]   NEAR (services/NEAR/index.js)
+2022-01-31 07:52:09,458 | SERVER_CODE |  INFO | [2655] Processing finished in 129.478ms
+2022-01-31 07:52:10,072 | SERVER_CODE |  INFO | [1847] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 07:52:10,074 | SERVER_CODE |  INFO | [1847] Building Model..
+2022-01-31 07:52:10,191 | SERVER_CODE |  INFO | [1847] ServerCode Model built in 117ms
+2022-01-31 07:52:10,191 | SERVER_CODE |  INFO | [1847] Services (1):
+2022-01-31 07:52:10,191 | SERVER_CODE |  INFO | [1847]   NEAR (services/NEAR/index.js)
+2022-01-31 07:52:10,194 | SERVER_CODE |  INFO | [1847] Processing finished in 129.725ms
+2022-01-31 07:53:10,044 | SERVER_CODE |  INFO | [2710] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 07:53:10,046 | SERVER_CODE |  INFO | [2710] Building Model..
+2022-01-31 07:53:10,161 | SERVER_CODE |  INFO | [2710] ServerCode Model built in 115ms
+2022-01-31 07:53:10,161 | SERVER_CODE |  INFO | [2710] Services (1):
+2022-01-31 07:53:10,161 | SERVER_CODE |  INFO | [2710]   NEAR (services/NEAR/index.js)
+2022-01-31 07:53:10,164 | SERVER_CODE |  INFO | [2710] Processing finished in 127.228ms
+2022-01-31 07:53:10,670 | SERVER_CODE |  INFO | [928] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 07:53:10,673 | SERVER_CODE |  INFO | [928] Building Model..
+2022-01-31 07:53:10,812 | SERVER_CODE |  INFO | [928] ServerCode Model built in 139ms
+2022-01-31 07:53:10,813 | SERVER_CODE |  INFO | [928] Services (1):
+2022-01-31 07:53:10,813 | SERVER_CODE |  INFO | [928]   NEAR (services/NEAR/index.js)
+2022-01-31 07:53:10,815 | SERVER_CODE |  INFO | [928] Processing finished in 154.975ms
+2022-01-31 07:56:52,191 | SERVER_CODE |  INFO | [2864] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 07:56:52,193 | SERVER_CODE |  INFO | [2864] ServerCode Model built in 5ms
+2022-01-31 07:56:52,196 | SERVER_CODE |  INFO | [2864] [8EFDDFB4-902B-61B0-FF2E-43194B33D600] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 07:56:52,897 | SERVER_CODE | ERROR | [2864] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 07:56:52,898 | SERVER_CODE |  INFO | [2864] Processing finished in 714.960ms
+2022-01-31 07:57:45,248 | SERVER_CODE |  INFO | [2908] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 07:57:45,250 | SERVER_CODE |  INFO | [2908] Building Model..
+2022-01-31 07:57:45,368 | SERVER_CODE |  INFO | [2908] ServerCode Model built in 118ms
+2022-01-31 07:57:45,368 | SERVER_CODE |  INFO | [2908] Services (1):
+2022-01-31 07:57:45,368 | SERVER_CODE |  INFO | [2908]   NEAR (services/NEAR/index.js)
+2022-01-31 07:57:45,371 | SERVER_CODE |  INFO | [2908] Processing finished in 130.942ms
+2022-01-31 07:57:45,879 | SERVER_CODE |  INFO | [2089] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 07:57:45,881 | SERVER_CODE |  INFO | [2089] Building Model..
+2022-01-31 07:57:45,996 | SERVER_CODE |  INFO | [2089] ServerCode Model built in 114ms
+2022-01-31 07:57:45,996 | SERVER_CODE |  INFO | [2089] Services (1):
+2022-01-31 07:57:45,996 | SERVER_CODE |  INFO | [2089]   NEAR (services/NEAR/index.js)
+2022-01-31 07:57:45,998 | SERVER_CODE |  INFO | [2089] Processing finished in 126.994ms
+2022-01-31 08:00:32,312 | SERVER_CODE |  INFO | [3051] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:00:32,313 | SERVER_CODE |  INFO | [3051] ServerCode Model built in 5ms
+2022-01-31 08:00:32,318 | SERVER_CODE |  INFO | [3051] [D3E22486-0D97-36A2-FF8D-FCADD45E7D00] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:00:32,419 | SERVER_CODE | ERROR | [3051] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:00:32,419 | SERVER_CODE |  INFO | [3051] Processing finished in 116.899ms
+2022-01-31 08:03:12,339 | SERVER_CODE |  INFO | [1489] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:03:12,341 | SERVER_CODE |  INFO | [1489] Building Model..
+2022-01-31 08:03:12,461 | SERVER_CODE |  INFO | [1489] ServerCode Model built in 120ms
+2022-01-31 08:03:12,461 | SERVER_CODE |  INFO | [1489] Services (1):
+2022-01-31 08:03:12,461 | SERVER_CODE |  INFO | [1489]   NEAR (services/NEAR/index.js)
+2022-01-31 08:03:12,464 | SERVER_CODE |  INFO | [1489] Processing finished in 132.461ms
+2022-01-31 08:03:12,974 | SERVER_CODE |  INFO | [2452] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:03:12,976 | SERVER_CODE |  INFO | [2452] Building Model..
+2022-01-31 08:03:13,096 | SERVER_CODE |  INFO | [2452] ServerCode Model built in 120ms
+2022-01-31 08:03:13,096 | SERVER_CODE |  INFO | [2452] Services (1):
+2022-01-31 08:03:13,096 | SERVER_CODE |  INFO | [2452]   NEAR (services/NEAR/index.js)
+2022-01-31 08:03:13,098 | SERVER_CODE |  INFO | [2452] Processing finished in 132.394ms
+2022-01-31 08:03:17,734 | SERVER_CODE |  INFO | [3282] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:03:17,736 | SERVER_CODE |  INFO | [3282] ServerCode Model built in 5ms
+2022-01-31 08:03:17,741 | SERVER_CODE |  INFO | [3282] [07BFBB4D-7B49-9CE6-FF5C-541D0F856100] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:03:18,103 | SERVER_CODE | ERROR | [3282] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:03:18,103 | SERVER_CODE |  INFO | [3282] Processing finished in 378.308ms
+2022-01-31 08:03:33,850 | SERVER_CODE |  INFO | [3293] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:03:33,852 | SERVER_CODE |  INFO | [3293] ServerCode Model built in 5ms
+2022-01-31 08:03:33,854 | SERVER_CODE |  INFO | [3293] [7E807803-8C01-49C1-FF88-F764372F8600] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:03:33,923 | SERVER_CODE | ERROR | [3293] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:03:33,923 | SERVER_CODE |  INFO | [3293] Processing finished in 82.020ms
+2022-01-31 08:03:45,859 | SERVER_CODE |  INFO | [2496] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:03:45,861 | SERVER_CODE |  INFO | [2496] Building Model..
+2022-01-31 08:03:45,975 | SERVER_CODE |  INFO | [2496] ServerCode Model built in 114ms
+2022-01-31 08:03:45,975 | SERVER_CODE |  INFO | [2496] Services (1):
+2022-01-31 08:03:45,975 | SERVER_CODE |  INFO | [2496]   NEAR (services/NEAR/index.js)
+2022-01-31 08:03:45,977 | SERVER_CODE |  INFO | [2496] Processing finished in 125.934ms
+2022-01-31 08:03:46,487 | SERVER_CODE |  INFO | [1544] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:03:46,488 | SERVER_CODE |  INFO | [1544] Building Model..
+2022-01-31 08:03:46,603 | SERVER_CODE |  INFO | [1544] ServerCode Model built in 115ms
+2022-01-31 08:03:46,603 | SERVER_CODE |  INFO | [1544] Services (1):
+2022-01-31 08:03:46,604 | SERVER_CODE |  INFO | [1544]   NEAR (services/NEAR/index.js)
+2022-01-31 08:03:46,606 | SERVER_CODE |  INFO | [1544] Processing finished in 126.956ms
+2022-01-31 08:05:48,764 | SERVER_CODE |  INFO | [1654] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:05:48,765 | SERVER_CODE |  INFO | [1654] Building Model..
+2022-01-31 08:05:48,886 | SERVER_CODE |  INFO | [1654] ServerCode Model built in 121ms
+2022-01-31 08:05:48,886 | SERVER_CODE |  INFO | [1654] Services (1):
+2022-01-31 08:05:48,886 | SERVER_CODE |  INFO | [1654]   NEAR (services/NEAR/index.js)
+2022-01-31 08:05:48,890 | SERVER_CODE |  INFO | [1654] Processing finished in 133.522ms
+2022-01-31 08:05:49,398 | SERVER_CODE |  INFO | [3447] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:05:49,399 | SERVER_CODE |  INFO | [3447] Building Model..
+2022-01-31 08:05:49,512 | SERVER_CODE |  INFO | [3447] ServerCode Model built in 113ms
+2022-01-31 08:05:49,512 | SERVER_CODE |  INFO | [3447] Services (1):
+2022-01-31 08:05:49,512 | SERVER_CODE |  INFO | [3447]   NEAR (services/NEAR/index.js)
+2022-01-31 08:05:49,515 | SERVER_CODE |  INFO | [3447] Processing finished in 124.712ms
+2022-01-31 08:05:59,544 | SERVER_CODE |  INFO | [3458] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:05:59,546 | SERVER_CODE |  INFO | [3458] ServerCode Model built in 5ms
+2022-01-31 08:05:59,550 | SERVER_CODE |  INFO | [3458] [489D4A19-DFDB-C738-FFDA-C1869A0AA500] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:05:59,750 | SERVER_CODE | ERROR | [3458] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:05:59,750 | SERVER_CODE |  INFO | [3458] Processing finished in 215.796ms
+2022-01-31 08:06:56,421 | SERVER_CODE |  INFO | [2705] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:06:56,423 | SERVER_CODE |  INFO | [2705] Building Model..
+2022-01-31 08:06:56,581 | SERVER_CODE |  INFO | [2705] ServerCode Model built in 158ms
+2022-01-31 08:06:56,582 | SERVER_CODE |  INFO | [2705] Services (1):
+2022-01-31 08:06:56,582 | SERVER_CODE |  INFO | [2705]   NEAR (services/NEAR/index.js)
+2022-01-31 08:06:56,585 | SERVER_CODE |  INFO | [2705] Processing finished in 173.875ms
+2022-01-31 08:06:57,089 | SERVER_CODE |  INFO | [3546] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:06:57,091 | SERVER_CODE |  INFO | [3546] Building Model..
+2022-01-31 08:06:57,212 | SERVER_CODE |  INFO | [3546] ServerCode Model built in 121ms
+2022-01-31 08:06:57,212 | SERVER_CODE |  INFO | [3546] Services (1):
+2022-01-31 08:06:57,212 | SERVER_CODE |  INFO | [3546]   NEAR (services/NEAR/index.js)
+2022-01-31 08:06:57,215 | SERVER_CODE |  INFO | [3546] Processing finished in 133.452ms
+2022-01-31 08:07:00,555 | SERVER_CODE |  INFO | [1753] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:07:00,557 | SERVER_CODE |  INFO | [1753] ServerCode Model built in 5ms
+2022-01-31 08:07:00,560 | SERVER_CODE |  INFO | [1753] [F9EA7FBE-907C-ACC3-FFFF-9B30BF25E500] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:07:00,914 | SERVER_CODE | ERROR | [1753] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:07:00,914 | SERVER_CODE |  INFO | [1753] Processing finished in 367.231ms
+2022-01-31 08:10:43,397 | SERVER_CODE |  INFO | [3733] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:10:43,399 | SERVER_CODE |  INFO | [3733] ServerCode Model built in 5ms
+2022-01-31 08:10:43,402 | SERVER_CODE |  INFO | [3733] [D2436691-E2EB-A7BE-FFDC-8C7AC97F8400] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:10:43,487 | SERVER_CODE | ERROR | [3733] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:10:43,488 | SERVER_CODE |  INFO | [3733] Processing finished in 101.080ms
+2022-01-31 08:13:00,160 | SERVER_CODE |  INFO | [3843] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:13:00,161 | SERVER_CODE |  INFO | [3843] Building Model..
+2022-01-31 08:13:00,283 | SERVER_CODE |  INFO | [3843] ServerCode Model built in 122ms
+2022-01-31 08:13:00,284 | SERVER_CODE |  INFO | [3843] Services (1):
+2022-01-31 08:13:00,284 | SERVER_CODE |  INFO | [3843]   NEAR (services/NEAR/index.js)
+2022-01-31 08:13:00,286 | SERVER_CODE |  INFO | [3843] Processing finished in 133.992ms
+2022-01-31 08:13:00,797 | SERVER_CODE |  INFO | [2050] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:13:00,798 | SERVER_CODE |  INFO | [2050] Building Model..
+2022-01-31 08:13:00,918 | SERVER_CODE |  INFO | [2050] ServerCode Model built in 120ms
+2022-01-31 08:13:00,919 | SERVER_CODE |  INFO | [2050] Services (1):
+2022-01-31 08:13:00,919 | SERVER_CODE |  INFO | [2050]   NEAR (services/NEAR/index.js)
+2022-01-31 08:13:00,921 | SERVER_CODE |  INFO | [2050] Processing finished in 132.298ms
+2022-01-31 08:13:01,876 | SERVER_CODE |  INFO | [3854] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:13:01,878 | SERVER_CODE |  INFO | [3854] ServerCode Model built in 5ms
+2022-01-31 08:13:01,882 | SERVER_CODE |  INFO | [3854] [58EE1C25-2C06-19D4-FF52-D80C33FBBB00] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:13:01,886 | SERVER_CODE |  INFO | [3854] http://rest.nearapi.org/balance/kzncvaa.testnet
+2022-01-31 08:13:01,887 | SERVER_CODE | ERROR | [3854] Error: Url must be specified.
+    at /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION/services/NEAR/index.js:78:79
+    at NEAR.Balance (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION/services/NEAR/index.js:78:219)
+    at ServiceWrapper.invokeMethod (/usr/local/lib/node_modules/backendless-coderunner/lib/server-code/model/service.js:81:29)
+    at Domain.<anonymous> (/usr/local/lib/node_modules/backendless-coderunner/lib/server-code/runners/tasks/invoke-service.js:78:31)
+    at Domain.run (domain.js:373:15)
+    at /usr/local/lib/node_modules/backendless-coderunner/lib/server-code/runners/tasks/invoke-service.js:77:7
+    at new Promise (<anonymous>)
+    at execute (/usr/local/lib/node_modules/backendless-coderunner/lib/server-code/runners/tasks/invoke-service.js:62:10)
+    at executeTask (/usr/local/lib/node_modules/backendless-coderunner/lib/server-code/runners/tasks/executor.js:82:7)
+    at Object.executor.execute (/usr/local/lib/node_modules/backendless-coderunner/lib/server-code/runners/tasks/executor.js:191:22)
+2022-01-31 08:13:01,887 | SERVER_CODE |  INFO | [3854] Processing finished in 20.747ms
+2022-01-31 08:13:14,287 | SERVER_CODE |  INFO | [2072] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:13:14,289 | SERVER_CODE |  INFO | [2072] Building Model..
+2022-01-31 08:13:14,427 | SERVER_CODE |  INFO | [2072] ServerCode Model built in 138ms
+2022-01-31 08:13:14,427 | SERVER_CODE |  INFO | [2072] Services (1):
+2022-01-31 08:13:14,427 | SERVER_CODE |  INFO | [2072]   NEAR (services/NEAR/index.js)
+2022-01-31 08:13:14,430 | SERVER_CODE |  INFO | [2072] Processing finished in 149.892ms
+2022-01-31 08:13:14,939 | SERVER_CODE |  INFO | [3035] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:13:14,941 | SERVER_CODE |  INFO | [3035] Building Model..
+2022-01-31 08:13:15,060 | SERVER_CODE |  INFO | [3035] ServerCode Model built in 119ms
+2022-01-31 08:13:15,060 | SERVER_CODE |  INFO | [3035] Services (1):
+2022-01-31 08:13:15,060 | SERVER_CODE |  INFO | [3035]   NEAR (services/NEAR/index.js)
+2022-01-31 08:13:15,062 | SERVER_CODE |  INFO | [3035] Processing finished in 130.149ms
+2022-01-31 08:13:31,750 | SERVER_CODE |  INFO | [3046] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:13:31,752 | SERVER_CODE |  INFO | [3046] ServerCode Model built in 5ms
+2022-01-31 08:13:31,755 | SERVER_CODE |  INFO | [3046] [A2CA0356-E9AD-5DD9-FFE2-7BD4337F5200] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:13:31,759 | SERVER_CODE |  INFO | [3046] http://rest.nearapi.org/balance/kzncvaa.testnet
+2022-01-31 08:13:31,938 | SERVER_CODE | ERROR | [3046] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:13:31,938 | SERVER_CODE |  INFO | [3046] Processing finished in 197.894ms
+2022-01-31 08:14:07,581 | SERVER_CODE |  INFO | [3068] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:14:07,583 | SERVER_CODE |  INFO | [3068] ServerCode Model built in 6ms
+2022-01-31 08:14:07,586 | SERVER_CODE |  INFO | [3068] [81837439-675C-B970-FF58-537163ECCA00] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:14:07,589 | SERVER_CODE |  INFO | [3068] http://rest.nearapi.org/balance/kzncvaa.testnet
+2022-01-31 08:14:07,829 | SERVER_CODE | ERROR | [3068] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:14:07,830 | SERVER_CODE |  INFO | [3068] Processing finished in 257.430ms
+2022-01-31 08:15:07,589 | SERVER_CODE |  INFO | [3953] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:15:07,590 | SERVER_CODE |  INFO | [3953] Building Model..
+2022-01-31 08:15:07,707 | SERVER_CODE |  INFO | [3953] ServerCode Model built in 117ms
+2022-01-31 08:15:07,707 | SERVER_CODE |  INFO | [3953] Services (1):
+2022-01-31 08:15:07,707 | SERVER_CODE |  INFO | [3953]   NEAR (services/NEAR/index.js)
+2022-01-31 08:15:07,709 | SERVER_CODE |  INFO | [3953] Processing finished in 128.919ms
+2022-01-31 08:15:08,223 | SERVER_CODE |  INFO | [2160] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:15:08,224 | SERVER_CODE |  INFO | [2160] Building Model..
+2022-01-31 08:15:08,342 | SERVER_CODE |  INFO | [2160] ServerCode Model built in 118ms
+2022-01-31 08:15:08,343 | SERVER_CODE |  INFO | [2160] Services (1):
+2022-01-31 08:15:08,343 | SERVER_CODE |  INFO | [2160]   NEAR (services/NEAR/index.js)
+2022-01-31 08:15:08,345 | SERVER_CODE |  INFO | [2160] Processing finished in 135.616ms
+2022-01-31 08:15:09,144 | SERVER_CODE |  INFO | [3123] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:15:09,146 | SERVER_CODE |  INFO | [3123] ServerCode Model built in 5ms
+2022-01-31 08:15:09,149 | SERVER_CODE |  INFO | [3123] [25E838B2-4C7F-A4A7-FF57-D9B84B6F5000] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:15:09,153 | SERVER_CODE |  INFO | [3123] http://rest.nearapi.org/balance/kzncvaa.testnet
+2022-01-31 08:15:09,153 | SERVER_CODE | ERROR | [3123] Error: Url must be specified.
+    at /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION/services/NEAR/index.js:77:71
+    at NEAR.Balance (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION/services/NEAR/index.js:77:211)
+    at ServiceWrapper.invokeMethod (/usr/local/lib/node_modules/backendless-coderunner/lib/server-code/model/service.js:81:29)
+    at Domain.<anonymous> (/usr/local/lib/node_modules/backendless-coderunner/lib/server-code/runners/tasks/invoke-service.js:78:31)
+    at Domain.run (domain.js:373:15)
+    at /usr/local/lib/node_modules/backendless-coderunner/lib/server-code/runners/tasks/invoke-service.js:77:7
+    at new Promise (<anonymous>)
+    at execute (/usr/local/lib/node_modules/backendless-coderunner/lib/server-code/runners/tasks/invoke-service.js:62:10)
+    at executeTask (/usr/local/lib/node_modules/backendless-coderunner/lib/server-code/runners/tasks/executor.js:82:7)
+    at Object.executor.execute (/usr/local/lib/node_modules/backendless-coderunner/lib/server-code/runners/tasks/executor.js:191:22)
+2022-01-31 08:15:09,154 | SERVER_CODE |  INFO | [3123] Processing finished in 18.748ms
+2022-01-31 08:15:25,265 | SERVER_CODE |  INFO | [2193] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:15:25,269 | SERVER_CODE |  INFO | [2193] Building Model..
+2022-01-31 08:15:25,395 | SERVER_CODE |  INFO | [2193] ServerCode Model built in 126ms
+2022-01-31 08:15:25,395 | SERVER_CODE |  INFO | [2193] Services (1):
+2022-01-31 08:15:25,395 | SERVER_CODE |  INFO | [2193]   NEAR (services/NEAR/index.js)
+2022-01-31 08:15:25,398 | SERVER_CODE |  INFO | [2193] Processing finished in 140.590ms
+2022-01-31 08:15:26,253 | SERVER_CODE |  INFO | [3156] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:15:26,254 | SERVER_CODE |  INFO | [3156] Building Model..
+2022-01-31 08:15:26,368 | SERVER_CODE |  INFO | [3156] ServerCode Model built in 114ms
+2022-01-31 08:15:26,368 | SERVER_CODE |  INFO | [3156] Services (1):
+2022-01-31 08:15:26,368 | SERVER_CODE |  INFO | [3156]   NEAR (services/NEAR/index.js)
+2022-01-31 08:15:26,371 | SERVER_CODE |  INFO | [3156] Processing finished in 125.516ms
+2022-01-31 08:15:29,156 | SERVER_CODE |  INFO | [3997] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:15:29,158 | SERVER_CODE |  INFO | [3997] ServerCode Model built in 5ms
+2022-01-31 08:15:29,161 | SERVER_CODE |  INFO | [3997] [9B12CD0B-CE90-DA87-FFE6-F05B12186500] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:15:29,165 | SERVER_CODE |  INFO | [3997] http://rest.nearapi.org/balance/kzncvaa.testnet
+2022-01-31 08:15:29,166 | SERVER_CODE |  INFO | [3997] Processing finished in 19.225ms
+2022-01-31 08:16:11,223 | SERVER_CODE |  INFO | [3200] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:16:11,225 | SERVER_CODE |  INFO | [3200] Building Model..
+2022-01-31 08:16:11,378 | SERVER_CODE |  INFO | [3200] ServerCode Model built in 153ms
+2022-01-31 08:16:11,379 | SERVER_CODE |  INFO | [3200] Services (1):
+2022-01-31 08:16:11,379 | SERVER_CODE |  INFO | [3200]   NEAR (services/NEAR/index.js)
+2022-01-31 08:16:11,382 | SERVER_CODE |  INFO | [3200] Processing finished in 168.072ms
+2022-01-31 08:16:11,891 | SERVER_CODE |  INFO | [2248] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:16:11,893 | SERVER_CODE |  INFO | [2248] Building Model..
+2022-01-31 08:16:12,012 | SERVER_CODE |  INFO | [2248] ServerCode Model built in 119ms
+2022-01-31 08:16:12,012 | SERVER_CODE |  INFO | [2248] Services (1):
+2022-01-31 08:16:12,012 | SERVER_CODE |  INFO | [2248]   NEAR (services/NEAR/index.js)
+2022-01-31 08:16:12,015 | SERVER_CODE |  INFO | [2248] Processing finished in 132.038ms
+2022-01-31 08:16:17,562 | SERVER_CODE |  INFO | [3211] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:16:17,564 | SERVER_CODE |  INFO | [3211] Building Model..
+2022-01-31 08:16:17,676 | SERVER_CODE |  INFO | [3211] ServerCode Model built in 112ms
+2022-01-31 08:16:17,676 | SERVER_CODE |  INFO | [3211] Services (1):
+2022-01-31 08:16:17,676 | SERVER_CODE |  INFO | [3211]   NEAR (services/NEAR/index.js)
+2022-01-31 08:16:17,678 | SERVER_CODE |  INFO | [3211] Processing finished in 122.892ms
+2022-01-31 08:16:18,187 | SERVER_CODE |  INFO | [2259] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:16:18,189 | SERVER_CODE |  INFO | [2259] Building Model..
+2022-01-31 08:16:18,318 | SERVER_CODE |  INFO | [2259] ServerCode Model built in 129ms
+2022-01-31 08:16:18,318 | SERVER_CODE |  INFO | [2259] Services (1):
+2022-01-31 08:16:18,318 | SERVER_CODE |  INFO | [2259]   NEAR (services/NEAR/index.js)
+2022-01-31 08:16:18,322 | SERVER_CODE |  INFO | [2259] Processing finished in 141.587ms
+2022-01-31 08:16:20,656 | SERVER_CODE |  INFO | [3222] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:16:20,658 | SERVER_CODE |  INFO | [3222] ServerCode Model built in 5ms
+2022-01-31 08:16:20,662 | SERVER_CODE |  INFO | [3222] [15F7F350-F8FE-0585-FF2E-AD7637DCED00] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:16:21,129 | SERVER_CODE | ERROR | [3222] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:16:21,130 | SERVER_CODE |  INFO | [3222] Processing finished in 483.342ms
+2022-01-31 08:16:34,514 | SERVER_CODE |  INFO | [3233] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:16:34,516 | SERVER_CODE |  INFO | [3233] Building Model..
+2022-01-31 08:16:34,633 | SERVER_CODE |  INFO | [3233] ServerCode Model built in 117ms
+2022-01-31 08:16:34,633 | SERVER_CODE |  INFO | [3233] Services (1):
+2022-01-31 08:16:34,633 | SERVER_CODE |  INFO | [3233]   NEAR (services/NEAR/index.js)
+2022-01-31 08:16:34,636 | SERVER_CODE |  INFO | [3233] Processing finished in 129.159ms
+2022-01-31 08:16:35,147 | SERVER_CODE |  INFO | [4074] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:16:35,148 | SERVER_CODE |  INFO | [4074] Building Model..
+2022-01-31 08:16:35,263 | SERVER_CODE |  INFO | [4074] ServerCode Model built in 115ms
+2022-01-31 08:16:35,263 | SERVER_CODE |  INFO | [4074] Services (1):
+2022-01-31 08:16:35,263 | SERVER_CODE |  INFO | [4074]   NEAR (services/NEAR/index.js)
+2022-01-31 08:16:35,265 | SERVER_CODE |  INFO | [4074] Processing finished in 126.548ms
+2022-01-31 08:17:12,677 | SERVER_CODE |  INFO | [4107] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:17:12,678 | SERVER_CODE |  INFO | [4107] Building Model..
+2022-01-31 08:17:12,811 | SERVER_CODE |  INFO | [4107] ServerCode Model built in 133ms
+2022-01-31 08:17:12,811 | SERVER_CODE |  INFO | [4107] Services (1):
+2022-01-31 08:17:12,811 | SERVER_CODE |  INFO | [4107]   NEAR (services/NEAR/index.js)
+2022-01-31 08:17:12,816 | SERVER_CODE |  INFO | [4107] Processing finished in 146.818ms
+2022-01-31 08:17:13,323 | SERVER_CODE |  INFO | [2314] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:17:13,324 | SERVER_CODE |  INFO | [2314] Building Model..
+2022-01-31 08:17:13,436 | SERVER_CODE |  INFO | [2314] ServerCode Model built in 112ms
+2022-01-31 08:17:13,436 | SERVER_CODE |  INFO | [2314] Services (1):
+2022-01-31 08:17:13,436 | SERVER_CODE |  INFO | [2314]   NEAR (services/NEAR/index.js)
+2022-01-31 08:17:13,438 | SERVER_CODE |  INFO | [2314] Processing finished in 122.907ms
+2022-01-31 08:17:15,059 | SERVER_CODE |  INFO | [3277] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:17:15,061 | SERVER_CODE |  INFO | [3277] ServerCode Model built in 4ms
+2022-01-31 08:17:15,065 | SERVER_CODE |  INFO | [3277] [C549E7C2-6318-9F69-FFB4-39B7DD72E300] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:17:15,175 | SERVER_CODE | ERROR | [3277] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:17:15,175 | SERVER_CODE |  INFO | [3277] Processing finished in 125.694ms
+2022-01-31 08:18:05,965 | SERVER_CODE |  INFO | [2380] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:18:05,967 | SERVER_CODE |  INFO | [2380] Building Model..
+2022-01-31 08:18:06,085 | SERVER_CODE |  INFO | [2380] ServerCode Model built in 118ms
+2022-01-31 08:18:06,085 | SERVER_CODE |  INFO | [2380] Services (1):
+2022-01-31 08:18:06,086 | SERVER_CODE |  INFO | [2380]   NEAR (services/NEAR/index.js)
+2022-01-31 08:18:06,089 | SERVER_CODE |  INFO | [2380] Processing finished in 132.594ms
+2022-01-31 08:18:06,599 | SERVER_CODE |  INFO | [4184] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:18:06,601 | SERVER_CODE |  INFO | [4184] Building Model..
+2022-01-31 08:18:06,722 | SERVER_CODE |  INFO | [4184] ServerCode Model built in 121ms
+2022-01-31 08:18:06,723 | SERVER_CODE |  INFO | [4184] Services (1):
+2022-01-31 08:18:06,723 | SERVER_CODE |  INFO | [4184]   NEAR (services/NEAR/index.js)
+2022-01-31 08:18:06,725 | SERVER_CODE |  INFO | [4184] Processing finished in 134.029ms
+2022-01-31 08:18:08,004 | SERVER_CODE |  INFO | [2391] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:18:08,005 | SERVER_CODE |  INFO | [2391] ServerCode Model built in 5ms
+2022-01-31 08:18:08,008 | SERVER_CODE |  INFO | [2391] [201D78C3-DBF9-D7F9-FFC4-81224BBE0B00] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:18:08,064 | SERVER_CODE | ERROR | [2391] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:18:08,065 | SERVER_CODE |  INFO | [2391] Processing finished in 71.248ms
+2022-01-31 08:19:26,953 | SERVER_CODE |  INFO | [2468] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:19:26,955 | SERVER_CODE |  INFO | [2468] ServerCode Model built in 5ms
+2022-01-31 08:19:26,957 | SERVER_CODE |  INFO | [2468] [80899FCA-A7C4-4929-FF0F-B854CA621400] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:19:27,041 | SERVER_CODE | ERROR | [2468] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:19:27,041 | SERVER_CODE |  INFO | [2468] Processing finished in 99.665ms
+2022-01-31 08:19:54,249 | SERVER_CODE |  INFO | [3442] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:19:54,251 | SERVER_CODE |  INFO | [3442] Building Model..
+2022-01-31 08:19:54,368 | SERVER_CODE |  INFO | [3442] ServerCode Model built in 116ms
+2022-01-31 08:19:54,368 | SERVER_CODE |  INFO | [3442] Services (1):
+2022-01-31 08:19:54,368 | SERVER_CODE |  INFO | [3442]   NEAR (services/NEAR/index.js)
+2022-01-31 08:19:54,370 | SERVER_CODE |  INFO | [3442] Processing finished in 129.880ms
+2022-01-31 08:19:54,879 | SERVER_CODE |  INFO | [2479] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 08:19:54,881 | SERVER_CODE |  INFO | [2479] Building Model..
+2022-01-31 08:19:55,001 | SERVER_CODE |  INFO | [2479] ServerCode Model built in 120ms
+2022-01-31 08:19:55,001 | SERVER_CODE |  INFO | [2479] Services (1):
+2022-01-31 08:19:55,001 | SERVER_CODE |  INFO | [2479]   NEAR (services/NEAR/index.js)
+2022-01-31 08:19:55,005 | SERVER_CODE |  INFO | [2479] Processing finished in 133.821ms
+2022-01-31 08:20:50,780 | SERVER_CODE |  INFO | [4316] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:20:50,782 | SERVER_CODE |  INFO | [4316] ServerCode Model built in 7ms
+2022-01-31 08:20:50,786 | SERVER_CODE |  INFO | [4316] [57B6436B-B5D0-48DE-FFC6-3923EB5EB700] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:20:50,872 | SERVER_CODE | ERROR | [4316] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:20:50,872 | SERVER_CODE |  INFO | [4316] Processing finished in 104.926ms
+2022-01-31 08:25:10,008 | SERVER_CODE |  INFO | [4569] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 08:25:10,009 | SERVER_CODE |  INFO | [4569] ServerCode Model built in 6ms
+2022-01-31 08:25:10,012 | SERVER_CODE |  INFO | [4569] [24F3ADB5-6D5A-E532-FF16-8B45840FEF00] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 08:25:10,346 | SERVER_CODE | ERROR | [4569] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 08:25:10,347 | SERVER_CODE |  INFO | [4569] Processing finished in 348.949ms
+2022-01-31 09:07:40,800 | SERVER_CODE |  INFO | [6351] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 09:07:40,802 | SERVER_CODE |  INFO | [6351] ServerCode Model built in 6ms
+2022-01-31 09:07:40,805 | SERVER_CODE |  INFO | [6351] [FEC52F7A-315E-B47D-FF67-C8E17DE19200] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 09:07:41,686 | SERVER_CODE | ERROR | [6351] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 09:07:41,686 | SERVER_CODE |  INFO | [6351] Processing finished in 897.901ms
+2022-01-31 09:19:55,218 | SERVER_CODE |  INFO | [9189] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 09:19:55,220 | SERVER_CODE |  INFO | [9189] ServerCode Model built in 5ms
+2022-01-31 09:19:55,223 | SERVER_CODE |  INFO | [9189] [1D338DAD-31DB-B515-FF15-523FD83A9300] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 09:19:55,524 | SERVER_CODE | ERROR | [9189] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 09:19:55,524 | SERVER_CODE |  INFO | [9189] Processing finished in 316.952ms
+2022-01-31 09:20:25,604 | SERVER_CODE |  INFO | [8420] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 09:20:25,606 | SERVER_CODE |  INFO | [8420] ServerCode Model built in 5ms
+2022-01-31 09:20:25,610 | SERVER_CODE |  INFO | [8420] [F195B381-DC3B-83C8-FFCF-1E0174519300] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 09:20:25,823 | SERVER_CODE | ERROR | [8420] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 09:20:25,823 | SERVER_CODE |  INFO | [8420] Processing finished in 229.577ms
+2022-01-31 09:20:32,914 | SERVER_CODE |  INFO | [9244] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 09:20:32,916 | SERVER_CODE |  INFO | [9244] ServerCode Model built in 5ms
+2022-01-31 09:20:32,918 | SERVER_CODE |  INFO | [9244] [92D1CB14-113C-DE32-FFEA-85FAFCDA5700] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 09:20:32,967 | SERVER_CODE | ERROR | [9244] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 09:20:32,967 | SERVER_CODE |  INFO | [9244] Processing finished in 61.276ms
+2022-01-31 09:20:38,162 | SERVER_CODE |  INFO | [9255] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 09:20:38,164 | SERVER_CODE |  INFO | [9255] ServerCode Model built in 6ms
+2022-01-31 09:20:38,166 | SERVER_CODE |  INFO | [9255] [F43184F4-7195-5615-FFD8-428CCBDC6700] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 09:20:38,233 | SERVER_CODE | ERROR | [9255] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 09:20:38,233 | SERVER_CODE |  INFO | [9255] Processing finished in 81.973ms
+2022-01-31 09:20:39,644 | SERVER_CODE |  INFO | [8453] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 09:20:39,646 | SERVER_CODE |  INFO | [8453] ServerCode Model built in 6ms
+2022-01-31 09:20:39,648 | SERVER_CODE |  INFO | [8453] [FEE6B841-F5A5-D3F1-FF92-7C7BEEE1C700] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 09:20:39,693 | SERVER_CODE | ERROR | [8453] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 09:20:39,694 | SERVER_CODE |  INFO | [8453] Processing finished in 60.437ms
+2022-01-31 09:20:49,707 | SERVER_CODE |  INFO | [8475] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 09:20:49,709 | SERVER_CODE |  INFO | [8475] ServerCode Model built in 6ms
+2022-01-31 09:20:49,716 | SERVER_CODE |  INFO | [8475] [51D6B852-F636-47DF-FFB9-A45AD2012800] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 09:20:49,757 | SERVER_CODE | ERROR | [8475] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 09:20:49,757 | SERVER_CODE |  INFO | [8475] Processing finished in 60.701ms
+2022-01-31 09:21:57,183 | SERVER_CODE |  INFO | [9376] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 09:21:57,184 | SERVER_CODE |  INFO | [9376] ServerCode Model built in 5ms
+2022-01-31 09:21:57,187 | SERVER_CODE |  INFO | [9376] [806A1B52-DEC6-158E-FF92-2B3AAC0B9E00] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 09:21:57,417 | SERVER_CODE | ERROR | [9376] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 09:21:57,417 | SERVER_CODE |  INFO | [9376] Processing finished in 244.845ms
+2022-01-31 09:22:31,879 | SERVER_CODE |  INFO | [8585] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 09:22:31,881 | SERVER_CODE |  INFO | [8585] ServerCode Model built in 6ms
+2022-01-31 09:22:31,883 | SERVER_CODE |  INFO | [8585] [267D729F-AD4D-63C6-FF63-C6F3802F1B00] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 09:22:31,986 | SERVER_CODE | ERROR | [8585] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 09:22:31,986 | SERVER_CODE |  INFO | [8585] Processing finished in 117.748ms
+2022-01-31 09:22:48,777 | SERVER_CODE |  INFO | [8596] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 09:22:48,779 | SERVER_CODE |  INFO | [8596] ServerCode Model built in 5ms
+2022-01-31 09:22:48,781 | SERVER_CODE |  INFO | [8596] [83350C91-A2BE-5509-FF90-01461D76E000] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 09:22:48,840 | SERVER_CODE | ERROR | [8596] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 09:22:48,841 | SERVER_CODE |  INFO | [8596] Processing finished in 71.139ms
+2022-01-31 09:22:51,811 | SERVER_CODE |  INFO | [7594] Building ServerCode Model for path (/opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/PRODUCTION)
+2022-01-31 09:22:51,814 | SERVER_CODE |  INFO | [7594] ServerCode Model built in 6ms
+2022-01-31 09:22:51,818 | SERVER_CODE |  INFO | [7594] [FCCDD89D-87F2-DEEE-FFDA-48870ED7F500] [INVOKE SERVICE] services.NEAR.Balance
+2022-01-31 09:22:51,867 | SERVER_CODE | ERROR | [7594] Error: Status Code 301 (Moved Permanently)
+    at new ResponseError (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:42:116)
+    at checkStatus (/usr/local/lib/node_modules/backendless-coderunner/node_modules/backendless-request/lib/index.js:244:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-01-31 09:22:51,867 | SERVER_CODE |  INFO | [7594] Processing finished in 65.763ms
+2022-01-31 09:24:19,367 | SERVER_CODE |  INFO | [10091] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 09:24:19,369 | SERVER_CODE |  INFO | [10091] Building Model..
+2022-01-31 09:24:19,487 | SERVER_CODE |  INFO | [10091] ServerCode Model built in 118ms
+2022-01-31 09:24:19,487 | SERVER_CODE |  INFO | [10091] Services (1):
+2022-01-31 09:24:19,487 | SERVER_CODE |  INFO | [10091]   NEAR (services/NEAR/index.js)
+2022-01-31 09:24:19,491 | SERVER_CODE |  INFO | [10091] Processing finished in 131.440ms
+2022-01-31 09:24:20,103 | SERVER_CODE |  INFO | [8265] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 09:24:20,104 | SERVER_CODE |  INFO | [8265] Building Model..
+2022-01-31 09:24:20,223 | SERVER_CODE |  INFO | [8265] ServerCode Model built in 119ms
+2022-01-31 09:24:20,223 | SERVER_CODE |  INFO | [8265] Services (1):
+2022-01-31 09:24:20,223 | SERVER_CODE |  INFO | [8265]   NEAR (services/NEAR/index.js)
+2022-01-31 09:24:20,225 | SERVER_CODE |  INFO | [8265] Processing finished in 130.537ms
+2022-01-31 09:25:02,058 | SERVER_CODE |  INFO | [9340] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 09:25:02,060 | SERVER_CODE |  INFO | [9340] Building Model..
+2022-01-31 09:25:02,202 | SERVER_CODE |  INFO | [9340] ServerCode Model built in 142ms
+2022-01-31 09:25:02,202 | SERVER_CODE |  INFO | [9340] Services (1):
+2022-01-31 09:25:02,202 | SERVER_CODE |  INFO | [9340]   NEAR (services/NEAR/index.js)
+2022-01-31 09:25:02,205 | SERVER_CODE |  INFO | [9340] Processing finished in 155.300ms
+2022-01-31 09:25:02,823 | SERVER_CODE |  INFO | [10153] [ANALYSE CODE] codePath: /opt/backendless/repo/2338d9e8-6a00-a259-ff96-7507df32ab00/files/servercode/CODELESS/NEAR/DRAFT
+2022-01-31 09:25:02,825 | SERVER_CODE |  INFO | [10153] Building Model..
+2022-01-31 09:25:02,945 | SERVER_CODE |  INFO | [10153] ServerCode Model built in 120ms
+2022-01-31 09:25:02,946 | SERVER_CODE |  INFO | [10153] Services (1):
+2022-01-31 09:25:02,946 | SERVER_CODE |  INFO | [10153]   NEAR (services/NEAR/index.js)
+2022-01-31 09:25:02

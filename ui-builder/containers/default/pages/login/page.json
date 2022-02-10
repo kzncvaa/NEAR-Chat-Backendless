@@ -1,0 +1,49 @@
+{
+  "style": {
+    "background-color": "#0f1129"
+  },
+  "components": {
+    "359e942fb9f2d5df44939e52ea244ac3": {
+      "id": "Login Button",
+      "type": "button",
+      "moduleType": "system",
+      "moduleId": "button",
+      "handlers": {}
+    },
+    "e13c78778b412de8d2c2d4ad9f421133": {
+      "id": "Login Form",
+      "type": "form",
+      "moduleType": "system",
+      "moduleId": "form",
+      "handlers": {
+        "onSubmit": {
+          "dependencies": []
+        }
+      }
+    },
+    "page": {
+      "type": "page",
+      "moduleType": "system",
+      "moduleId": "page",
+      "handlers": {
+        "onEnter": {
+          "dependencies": []
+        }
+      }
+    }
+  },
+  "usedComponentTypes": [
+    "block",
+    "layout-container",
+    "layout-row",
+    "layout-cell",
+    "image",
+    "form",
+    "text",
+    "input",
+    "switch",
+    "button"
+  ],
+  "dataBinding": {},
+  "attrs": {}
+}
